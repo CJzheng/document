@@ -1,0 +1,568 @@
+Message-ID: <1123241812.87.1483523958059.JavaMail.WINSERVER-2012$@winserver-2012>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_86_2046694383.1483523958059"
+
+------=_Part_86_2046694383.1483523958059
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>2.10 Spring task=E5=AE=9A=E6=97=B6=E5=99=A8</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>2.10 Spring task=E5=AE=9A=E6=97=B6=E5=99=A8</h1>
+    <div class=3D"Section1">
+        <p>1=E3=80=81Spring=E5=AE=9A=E6=97=B6=E5=99=A8=E6=98=AF=E4=BB=80=E4=
+=B9=88=EF=BC=9F<br>Spring=E6=A1=86=E6=9E=B6=E8=87=AA=E5=B7=B1=E6=8F=90=E4=
+=BE=9B=E4=BA=86=E4=B8=80=E4=B8=AA=E4=BB=BB=E5=8A=A1=E5=AE=9A=E6=97=B6=E5=99=
+=A8,=E4=B9=9F=E5=B0=B1=E6=98=AFSpring task=E5=AE=9A=E6=97=B6=E5=99=A8=E3=80=
+=82</p>
+<p>2=E3=80=81Spring=E5=AE=9A=E6=97=B6=E5=99=A8=E6=9C=89=E4=BB=80=E4=B9=88=
+=E4=BD=9C=E7=94=A8=EF=BC=9F<br>Spring=E5=AE=9A=E6=97=B6=E5=99=A8=E6=96=B9=
+=E4=BE=BF=E6=88=91=E4=BB=AC=E5=86=99=E7=AE=80=E5=8D=95=E7=9A=84=E4=BB=A3=E7=
+=A0=81=E5=8E=BB=E5=AE=9A=E6=97=B6=E6=89=A7=E8=A1=8C=E4=B8=80=E4=BA=9B=E4=BB=
+=BB=E5=8A=A1=E3=80=82</p>
+<p>3=E3=80=81Spring=E5=AE=9A=E6=97=B6=E5=99=A8=E6=80=8E=E4=B9=88=E5=AE=9E=
+=E7=8E=B0=EF=BC=9F<br>Spring=E5=AE=9A=E6=97=B6=E5=99=A8=E7=9A=84=E7=9B=B8=
+=E5=85=B3=E9=85=8D=E7=BD=AE=EF=BC=8C=E4=B8=BB=E8=A6=81=E9=85=8D=E7=BD=AE=E5=
+=9C=A8=E6=88=91=E4=BB=AC=E7=9A=84=E9=A1=B9=E7=9B=AE=E7=9A=84applicationCont=
+ext-schedule.xml=EF=BC=8C=E5=AE=83=E7=9A=84=E5=AE=9E=E7=8E=B0=E4=BE=9D=E8=
+=B5=96=E4=BA=8ESpring task=E3=80=82</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">&lt;?xml=
+ version=3D"1.0" encoding=3D"UTF-8"?&gt;
+&lt;beans xmlns=3D"http://www.springframework.org/schema/beans"
+       xmlns:xsi=3D"http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context=3D"http://www.springframework.org/schema/context"
+       xmlns:task=3D"http://www.springframework.org/schema/task"
+       xsi:schemaLocation=3D"http://www.springframework.org/schema/beans ht=
+tp://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+    http://www.springframework.org/schema/context http://www.springframewor=
+k.org/schema/context/spring-context-2.5.xsd http://www.springframework.org/=
+schema/task http://www.springframework.org/schema/task/spring-task-3.0.xsd"
+       default-autowire=3D"byName" default-lazy-init=3D"false"&gt;
+    &lt;context:component-scan base-package=3D"com/iloosen/imall/processor"=
+/&gt;
+    &lt;task:executor id=3D"executor" pool-size=3D"${app.thread.executor.po=
+ol:1}" /&gt;&lt;!-- =E5=A4=84=E7=90=86@Async=E7=9A=84  --&gt;
+    &lt;task:scheduler id=3D"scheduler" pool-size=3D"${app.thread.scheduler=
+.pool:12}" /&gt;&lt;!-- =E5=A4=84=E7=90=86@Scheduled=E7=9A=84  --&gt;
+    &lt;task:annotation-driven executor=3D"executor" scheduler=3D"scheduler=
+" /&gt;
+&lt;/beans&gt;</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<p>4=E3=80=81Spring=E5=AE=9A=E6=97=B6=E5=99=A8=E6=80=8E=E4=B9=88=E7=94=A8=
+=EF=BC=9F<br>=E7=AC=AC=E4=B8=80=E6=AD=A5=EF=BC=9A=E5=9C=A8com.iloosen.imall=
+.processor=E4=B8=8B=E6=9F=90=E7=9B=AE=E5=BD=95=E4=B8=8B=EF=BC=8C=E6=96=B0=
+=E5=BB=BA=E4=B8=80=E4=B8=AA=E7=B1=BBTestProcessor=EF=BC=8C=E4=BB=A3=E7=A0=
+=81=E5=A6=82=E4=B8=8B=EF=BC=88=E6=B3=A8=E6=84=8F=EF=BC=8C=E4=BB=A5=E4=B8=8B=
+=E6=98=AF=E5=AE=9A=E6=97=B6=E5=99=A8=E7=9A=84=E6=A0=87=E5=87=86=E5=86=99=E6=
+=B3=95=EF=BC=89=EF=BC=9A</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">import =
+com.iloosen.imall.commons.global.Global;
+import com.iloosen.imall.commons.helper.ServiceManager;
+import com.iloosen.imall.commons.helper.SysInitBeanHelper;
+import com.iloosen.imall.commons.util.UtilDateTime;
+import com.iloosen.imall.processor.IProcesser;
+import org.apache.log4j.Logger;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.scheduling.annotation.Scheduled;
+import org.springframework.stereotype.Component;
+import java.util.Date;
+@Component
+public class TestProcessor implements IProcesser {
+    private Logger logger =3D Logger.getLogger(this.getClass().getName());
+    private boolean disabled;
+    private boolean running;
+    @Value("${app.processor.test.frequency:1 1 1 1 JAN *}")
+    public void setCronValue(String value) {
+        disabled =3D (Global.DISABLED_SCHEDULED_CRON.equals(value));
+    }
+    @Override
+    @Scheduled(cron=3D"${app.processor.test.frequency:1 1 1 1 JAN *}")
+    public void process(){
+        if (disabled || running || !ServiceManager.isInited() || !SysInitBe=
+anHelper.isSolrInited()) {
+            return;
+        }
+        try{
+            running =3D true;
+            //=E5=AE=9A=E6=97=B6=E6=89=A7=E8=A1=8C=E7=9A=84=E4=BB=A3=E7=A0=
+=81=E5=86=99=E5=9C=A8=E8=BF=99=E9=87=8C
+            System.out.println("test ha ha ...time=3D" + UtilDateTime.conve=
+rtDateTimeToString(new Date()));
+            //...
+           =20
+        }catch (Throwable tr) { //NOSONAR
+            logger.error(tr.getMessage(), tr);
+        } finally {
+            running =3D false;
+        }
+    }
+}</pre>=20
+</div>
+</div>
+<p>=E6=B3=A8=E6=84=8F=EF=BC=9A=E5=AE=9A=E6=97=B6=E5=99=A8=E9=BB=98=E8=AE=A4=
+=E9=85=8D=E7=BD=AE=E4=BA=86=E6=97=B6=E9=97=B4=E4=B8=BA1 1 1 1 JAN *=EF=BC=
+=8C =E6=89=80=E4=BB=A5=E8=BF=99=E4=B8=AA=E5=AE=9A=E6=97=B6=E5=99=A8=E9=BB=
+=98=E8=AE=A4=E6=98=AF=E4=B8=8D=E6=89=A7=E8=A1=8C=E7=9A=84=E3=80=82=E8=A6=81=
+=E8=AE=A9=E5=AE=83=E6=89=A7=E8=A1=8C=EF=BC=8C=E5=B0=B1=E8=A6=81=E5=81=9A=E7=
+=AC=AC=E4=BA=8C=E6=AD=A5=E7=9A=84=E9=85=8D=E7=BD=AE=E3=80=82</p>
+<p>&nbsp;</p>
+<p>=E7=AC=AC=E4=BA=8C=E6=AD=A5=EF=BC=9A=E5=9C=A8appConfig.local.properties=
+=E9=85=8D=E7=BD=AE=E5=AE=9A=E6=97=B6=E5=99=A8=E7=9A=84=E6=89=A7=E8=A1=8C=E6=
+=97=B6=E9=97=B4=E5=A6=82=E4=B8=8B=EF=BC=9A</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: xml; gutter: false; theme: Confluence" data-theme=3D"Confluence">#=E6=AF=
+=8F=E9=9A=9415=E5=88=86=E9=92=9F=E6=89=A7=E8=A1=8C=E4=B8=80=E6=AC=A1
+app.processor.test.frequency=3D0 0/15 * * * ?</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<p>Spring=E5=AE=9A=E6=97=B6=E5=99=A8=E7=9A=84=E6=97=B6=E9=97=B4=E9=85=8D=E7=
+=BD=AE=E7=9F=A5=E8=AF=86=E6=89=A9=E5=B1=95=EF=BC=9A</p>
+<p><span style=3D"color: rgb(0,0,0);">=E6=97=B6=E9=97=B4=E5=A4=A7=E5=B0=8F=
+=E7=94=B1=E5=B0=8F=E5=88=B0=E5=A4=A7=E6=8E=92=E5=88=97=EF=BC=8C=E4=BB=8E=E7=
+=A7=92=E5=BC=80=E5=A7=8B=EF=BC=8C=E9=A1=BA=E5=BA=8F=E4=B8=BA =E7=A7=92=EF=
+=BC=8C=E5=88=86=EF=BC=8C=E6=97=B6=EF=BC=8C=E5=A4=A9=EF=BC=8C=E6=9C=88=EF=BC=
+=8C=E5=B9=B4=E3=80=82</span></p>
+<p>1=EF=BC=8E=E7=A7=92=EF=BC=880=E2=80=9359=EF=BC=89<br><span style=3D"colo=
+r: rgb(37,37,37);">2=EF=BC=8E=E5=88=86=E9=92=9F=EF=BC=880=E2=80=9359=EF=BC=
+=89</span><br><span style=3D"color: rgb(37,37,37);">3=EF=BC=8E=E5=B0=8F=E6=
+=97=B6=EF=BC=880=E2=80=9323=EF=BC=89</span><br><span style=3D"color: rgb(37=
+,37,37);">4=EF=BC=8E=E6=9C=88=E4=BB=BD=E4=B8=AD=E7=9A=84=E6=97=A5=E6=9C=9F=
+=EF=BC=881=E2=80=9331=EF=BC=89</span><br><span style=3D"color: rgb(37,37,37=
+);">5=EF=BC=8E=E6=9C=88=E4=BB=BD=EF=BC=881=E2=80=9312=E6=88=96JAN=E2=80=93D=
+EC=EF=BC=89</span><br><span style=3D"color: rgb(37,37,37);">6=EF=BC=8E=E6=
+=98=9F=E6=9C=9F=E4=B8=AD=E7=9A=84=E6=97=A5=E6=9C=9F=EF=BC=881=E2=80=937=E6=
+=88=96SUN=E2=80=93SAT=EF=BC=89</span><br><span style=3D"color: rgb(37,37,37=
+);">7=EF=BC=8E=E5=B9=B4=E4=BB=BD=EF=BC=881970=E2=80=932099=EF=BC=89</span><=
+br><span style=3D"color: rgb(37,37,37);">0 0 10,14,16 * * ?</span><br><span=
+ style=3D"color: rgb(37,37,37);">=E6=AF=8F=E5=A4=A9=E4=B8=8A=E5=8D=8810=E7=
+=82=B9,=E4=B8=8B=E5=8D=882=E7=82=B9=E5=92=8C=E4=B8=8B=E5=8D=884=E7=82=B9</s=
+pan><br><span style=3D"color: rgb(37,37,37);">0 0,15,30,45 * 1-10 * ?</span=
+><br><span style=3D"color: rgb(37,37,37);">=E6=AF=8F=E6=9C=88=E5=89=8D10=E5=
+=A4=A9=E6=AF=8F=E9=9A=9415=E5=88=86=E9=92=9F</span><br><span style=3D"color=
+: rgb(37,37,37);">30 0 0 1 1 ? 2012</span><br><span style=3D"color: rgb(37,=
+37,37);">=E5=9C=A82012=E5=B9=B41=E6=9C=881=E6=97=A5=E5=8D=88=E5=A4=9C=E8=BF=
+=8730=E7=A7=92=E6=97=B6</span><br><span style=3D"color: rgb(37,37,37);">0 0=
+ 8-5 ? * MON-FRI</span><br><span style=3D"color: rgb(37,37,37);">=E6=AF=8F=
+=E4=B8=AA=E5=B7=A5=E4=BD=9C=E6=97=A5=E7=9A=84=E5=B7=A5=E4=BD=9C=E6=97=B6=E9=
+=97=B4</span><br><span style=3D"color: rgb(37,37,37);">=E5=90=84=E4=B8=AA=
+=E6=97=B6=E9=97=B4=E5=8F=AF=E7=94=A8=E5=80=BC=E5=A6=82=E4=B8=8B=EF=BC=9A</s=
+pan><br><span style=3D"color: rgb(37,37,37);">=E7=A7=920-59 , - * /</span><=
+br><span style=3D"color: rgb(37,37,37);">=E5=88=860-59 , - * /</span><br><s=
+pan style=3D"color: rgb(37,37,37);">=E5=B0=8F=E6=97=B60-23 , - * /</span><b=
+r><span style=3D"color: rgb(37,37,37);">=E6=97=A51-31 , - * ? / L W C</span=
+><br><span style=3D"color: rgb(37,37,37);">=E6=9C=881-12 or JAN-DEC , - * /=
+</span><br><span style=3D"color: rgb(37,37,37);">=E5=91=A8=E5=87=A01-7 or S=
+UN-SAT , - * ? / L C #</span><br><span style=3D"color: rgb(37,37,37);">=E5=
+=B9=B4(=E5=8F=AF=E9=80=89=E5=AD=97=E6=AE=B5) empty, 1970-2099 , - * /</span=
+><br><span style=3D"color: rgb(37,37,37);">=E5=8F=AF=E7=94=A8=E5=80=BC=E8=
+=AF=A6=E7=BB=86=E5=88=86=E6=9E=90=E5=A6=82=E4=B8=8B=EF=BC=9A</span><br><spa=
+n style=3D"color: rgb(37,37,37);">=E2=80=9C*=E2=80=9D=E2=80=94=E2=80=94=E5=
+=AD=97=E7=AC=A6=E5=8F=AF=E4=BB=A5=E7=94=A8=E4=BA=8E=E6=89=80=E6=9C=89=E5=AD=
+=97=E6=AE=B5=EF=BC=8C=E5=9C=A8=E2=80=9C=E5=88=86=E2=80=9D=E5=AD=97=E6=AE=B5=
+=E4=B8=AD=E8=AE=BE=E4=B8=BA"*"=E8=A1=A8=E7=A4=BA"=E6=AF=8F=E4=B8=80=E5=88=
+=86=E9=92=9F"=E7=9A=84=E5=90=AB=E4=B9=89=E3=80=82</span><br><span style=3D"=
+color: rgb(37,37,37);">=E2=80=9C?=E2=80=9D=E2=80=94=E2=80=94=E5=AD=97=E7=AC=
+=A6=E5=8F=AF=E4=BB=A5=E7=94=A8=E5=9C=A8=E2=80=9C=E6=97=A5=E2=80=9D=E5=92=8C=
+=E2=80=9C=E5=91=A8=E5=87=A0=E2=80=9D=E5=AD=97=E6=AE=B5.=E5=AE=83=E7=94=A8=
+=E6=9D=A5=E6=8C=87=E5=AE=9A'=E4=B8=8D=E6=98=8E=E7=A1=AE=E7=9A=84=E5=80=BC'.=
+=E8=BF=99=E5=9C=A8=E4=BD=A0=E9=9C=80=E8=A6=81=E6=8C=87=E5=AE=9A=E8=BF=99=E4=
+=B8=A4=E4=B8=AA=E5=AD=97=E6=AE=B5=E4=B8=AD=E7=9A=84=E6=9F=90=E4=B8=80=E4=B8=
+=AA=E5=80=BC=E8=80=8C=E4=B8=8D=E6=98=AF=E5=8F=A6=E5=A4=96=E4=B8=80=E4=B8=AA=
+=E7=9A=84=E6=97=B6=E5=80=99=E4=BC=9A=E8=A2=AB=E7=94=A8=E5=88=B0=E3=80=82=E5=
+=9C=A8=E5=90=8E=E9=9D=A2=E7=9A=84=E4=BE=8B=E5=AD=90=E4=B8=AD=E5=8F=AF=E4=BB=
+=A5=E7=9C=8B=E5=88=B0=E5=85=B6=E5=90=AB=E4=B9=89=E3=80=82</span><br><span s=
+tyle=3D"color: rgb(37,37,37);">=E2=80=9C-=E2=80=9D=E2=80=94=E2=80=94=E5=AD=
+=97=E7=AC=A6=E8=A2=AB=E7=94=A8=E6=9D=A5=E6=8C=87=E5=AE=9A=E4=B8=80=E4=B8=AA=
+=E5=80=BC=E7=9A=84=E8=8C=83=E5=9B=B4=EF=BC=8C=E6=AF=94=E5=A6=82=E5=9C=A8=E2=
+=80=9C=E5=B0=8F=E6=97=B6=E2=80=9D=E5=AD=97=E6=AE=B5=E4=B8=AD=E8=AE=BE=E4=B8=
+=BA"10-12"=E8=A1=A8=E7=A4=BA"10=E7=82=B9=E5=88=B012=E7=82=B9"=E3=80=82</spa=
+n><br><span style=3D"color: rgb(37,37,37);">=E2=80=9C,=E2=80=9D=E2=80=94=E2=
+=80=94=E5=AD=97=E7=AC=A6=E6=8C=87=E5=AE=9A=E6=95=B0=E4=B8=AA=E5=80=BC=E3=80=
+=82=E6=AF=94=E5=A6=82=E5=9C=A8=E2=80=9C=E5=91=A8=E5=87=A0=E2=80=9D=E5=AD=97=
+=E6=AE=B5=E4=B8=AD=E8=AE=BE=E4=B8=BA"MON,WED,FRI"=E8=A1=A8=E7=A4=BA"the day=
+s Monday, Wednesday, and Friday"=E3=80=82</span><br><span style=3D"color: r=
+gb(37,37,37);">=E2=80=9C/=E2=80=9D=E2=80=94=E2=80=94=E5=AD=97=E7=AC=A6=E7=
+=94=A8=E6=9D=A5=E6=8C=87=E5=AE=9A=E4=B8=80=E4=B8=AA=E5=80=BC=E7=9A=84=E7=9A=
+=84=E5=A2=9E=E5=8A=A0=E5=B9=85=E5=BA=A6.=E6=AF=94=E5=A6=82=E5=9C=A8=E2=80=
+=9C=E7=A7=92=E2=80=9D=E5=AD=97=E6=AE=B5=E4=B8=AD=E8=AE=BE=E7=BD=AE=E4=B8=BA=
+"0/15"=E8=A1=A8=E7=A4=BA"=E7=AC=AC0, 15, 30,=E5=92=8C45=E7=A7=92"=E3=80=82=
+=E8=80=8C"5/15"=E5=88=99=E8=A1=A8=E7=A4=BA"=E7=AC=AC5, 20, 35,=E5=92=8C50".=
+=E5=9C=A8'/'=E5=89=8D=E5=8A=A0"*"=E5=AD=97=E7=AC=A6=E7=9B=B8=E5=BD=93=E4=BA=
+=8E=E6=8C=87=E5=AE=9A=E4=BB=8E0=E7=A7=92=E5=BC=80=E5=A7=8B.=E6=AF=8F=E4=B8=
+=AA=E5=AD=97=E6=AE=B5=E9=83=BD=E6=9C=89=E4=B8=80=E7=B3=BB=E5=88=97=E5=8F=AF=
+=E4=BB=A5=E5=BC=80=E5=A7=8B=E6=88=96=E7=BB=93=E6=9D=9F=E7=9A=84=E6=95=B0=E5=
+=80=BC=E3=80=82=E5=AF=B9=E4=BA=8E=E2=80=9C=E7=A7=92=E2=80=9D=E5=92=8C=E2=80=
+=9C=E5=88=86=E2=80=9D=E5=AD=97=E6=AE=B5=E6=9D=A5=E8=AF=B4=EF=BC=8C=E5=85=B6=
+=E6=95=B0=E5=80=BC=E8=8C=83=E5=9B=B4=E4=B8=BA0=E5=88=B059=EF=BC=8C=E5=AF=B9=
+=E4=BA=8E=E2=80=9C=E5=B0=8F=E6=97=B6=E2=80=9D=E5=AD=97=E6=AE=B5=E6=9D=A5=E8=
+=AF=B4=E5=85=B6=E4=B8=BA0=E5=88=B023,=E5=AF=B9=E4=BA=8E=E2=80=9C=E6=97=A5=
+=E2=80=9D=E5=AD=97=E6=AE=B5=E6=9D=A5=E8=AF=B4=E4=B8=BA0=E5=88=B031,=E8=80=
+=8C=E5=AF=B9=E4=BA=8E=E2=80=9C=E6=9C=88=E2=80=9D=E5=AD=97=E6=AE=B5=E6=9D=A5=
+=E8=AF=B4=E4=B8=BA1=E5=88=B012=E3=80=82"/"=E5=AD=97=E6=AE=B5=E4=BB=85=E4=BB=
+=85=E5=8F=AA=E6=98=AF=E5=B8=AE=E5=8A=A9=E4=BD=A0=E5=9C=A8=E5=85=81=E8=AE=B8=
+=E7=9A=84=E6=95=B0=E5=80=BC=E8=8C=83=E5=9B=B4=E5=86=85=E4=BB=8E=E5=BC=80=E5=
+=A7=8B"=E7=AC=ACn"=E7=9A=84=E5=80=BC=E3=80=82</span><br><span style=3D"colo=
+r: rgb(37,37,37);">=E2=80=9CL=E2=80=9D=E2=80=94=E2=80=94=E5=AD=97=E7=AC=A6=
+=E5=8F=AF=E7=94=A8=E5=9C=A8=E2=80=9C=E6=97=A5=E2=80=9D=E5=92=8C=E2=80=9C=E5=
+=91=A8=E5=87=A0=E2=80=9D=E8=BF=99=E4=B8=A4=E4=B8=AA=E5=AD=97=E6=AE=B5=E3=80=
+=82=E5=AE=83=E6=98=AF"last"=E7=9A=84=E7=BC=A9=E5=86=99,=E4=BD=86=E6=98=AF=
+=E5=9C=A8=E8=BF=99=E4=B8=A4=E4=B8=AA=E5=AD=97=E6=AE=B5=E4=B8=AD=E6=9C=89=E4=
+=B8=8D=E5=90=8C=E7=9A=84=E5=90=AB=E4=B9=89=E3=80=82=E4=BE=8B=E5=A6=82,=E2=
+=80=9C=E6=97=A5=E2=80=9D=E5=AD=97=E6=AE=B5=E4=B8=AD=E7=9A=84"L"=E8=A1=A8=E7=
+=A4=BA"=E4=B8=80=E4=B8=AA=E6=9C=88=E4=B8=AD=E7=9A=84=E6=9C=80=E5=90=8E=E4=
+=B8=80=E5=A4=A9" =E2=80=94=E2=80=94=E5=AF=B9=E4=BA=8E=E4=B8=80=E6=9C=88=E5=
+=B0=B1=E6=98=AF31=E5=8F=B7=E5=AF=B9=E4=BA=8E=E4=BA=8C=E6=9C=88=E6=9D=A5=E8=
+=AF=B4=E5=B0=B1=E6=98=AF28=E5=8F=B7=EF=BC=88=E9=9D=9E=E9=97=B0=E5=B9=B4=EF=
+=BC=89=E3=80=82=E8=80=8C=E5=9C=A8=E2=80=9C=E5=91=A8=E5=87=A0=E2=80=9D=E5=AD=
+=97=E6=AE=B5=E4=B8=AD,=E5=AE=83=E7=AE=80=E5=8D=95=E7=9A=84=E8=A1=A8=E7=A4=
+=BA"7" or "SAT"=EF=BC=8C=E4=BD=86=E6=98=AF=E5=A6=82=E6=9E=9C=E5=9C=A8=E2=80=
+=9C=E5=91=A8=E5=87=A0=E2=80=9D=E5=AD=97=E6=AE=B5=E4=B8=AD=E4=BD=BF=E7=94=A8=
+=E6=97=B6=E8=B7=9F=E5=9C=A8=E6=9F=90=E4=B8=AA=E6=95=B0=E5=AD=97=E4=B9=8B=E5=
+=90=8E,=E5=AE=83=E8=A1=A8=E7=A4=BA"=E8=AF=A5=E6=9C=88=E6=9C=80=E5=90=8E=E4=
+=B8=80=E4=B8=AA=E6=98=9F=E6=9C=9F=C3=97" =E2=80=94=E2=80=94=E6=AF=94=E5=A6=
+=82"6L"=E8=A1=A8=E7=A4=BA"=E8=AF=A5=E6=9C=88=E6=9C=80=E5=90=8E=E4=B8=80=E4=
+=B8=AA=E5=91=A8=E4=BA=94"=E3=80=82=E5=BD=93=E4=BD=BF=E7=94=A8'L'=E9=80=89=
+=E9=A1=B9=E6=97=B6,=E6=8C=87=E5=AE=9A=E7=A1=AE=E5=AE=9A=E7=9A=84=E5=88=97=
+=E8=A1=A8=E6=88=96=E8=80=85=E8=8C=83=E5=9B=B4=E9=9D=9E=E5=B8=B8=E9=87=8D=E8=
+=A6=81=EF=BC=8C=E5=90=A6=E5=88=99=E4=BD=A0=E4=BC=9A=E8=A2=AB=E7=BB=93=E6=9E=
+=9C=E6=90=9E=E7=B3=8A=E6=B6=82=E7=9A=84=E3=80=82</span><br><span style=3D"c=
+olor: rgb(37,37,37);">=E2=80=9CW=E2=80=9D=E2=80=94=E2=80=94=E5=8F=AF=E7=94=
+=A8=E4=BA=8E=E2=80=9C=E6=97=A5=E2=80=9D=E5=AD=97=E6=AE=B5=E3=80=82=E7=94=A8=
+=E6=9D=A5=E6=8C=87=E5=AE=9A=E5=8E=86=E7=BB=99=E5=AE=9A=E6=97=A5=E6=9C=9F=E6=
+=9C=80=E8=BF=91=E7=9A=84=E5=B7=A5=E4=BD=9C=E6=97=A5(=E5=91=A8=E4=B8=80=E5=
+=88=B0=E5=91=A8=E4=BA=94)=E3=80=82=E6=AF=94=E5=A6=82=E4=BD=A0=E5=B0=86=E2=
+=80=9C=E6=97=A5=E2=80=9D=E5=AD=97=E6=AE=B5=E8=AE=BE=E4=B8=BA"15W"=EF=BC=8C=
+=E6=84=8F=E4=B8=BA: "=E7=A6=BB=E8=AF=A5=E6=9C=8815=E5=8F=B7=E6=9C=80=E8=BF=
+=91=E7=9A=84=E5=B7=A5=E4=BD=9C=E6=97=A5"=E3=80=82=E5=9B=A0=E6=AD=A4=E5=A6=
+=82=E6=9E=9C15=E5=8F=B7=E4=B8=BA=E5=91=A8=E5=85=AD=EF=BC=8C=E8=A7=A6=E5=8F=
+=91=E5=99=A8=E4=BC=9A=E5=9C=A814=E5=8F=B7=E5=8D=B3=E5=91=A8=E4=BA=94=E8=B0=
+=83=E7=94=A8=E3=80=82=E5=A6=82=E6=9E=9C15=E5=8F=B7=E4=B8=BA=E5=91=A8=E6=97=
+=A5,=E8=A7=A6=E5=8F=91=E5=99=A8=E4=BC=9A=E5=9C=A816=E5=8F=B7=E4=B9=9F=E5=B0=
+=B1=E6=98=AF=E5=91=A8=E4=B8=80=E8=A7=A6=E5=8F=91=E3=80=82=E5=A6=82=E6=9E=9C=
+15=E5=8F=B7=E4=B8=BA=E5=91=A8=E4=BA=8C,=E9=82=A3=E4=B9=88=E5=BD=93=E5=A4=A9=
+=E5=B0=B1=E4=BC=9A=E8=A7=A6=E5=8F=91=E3=80=82=E7=84=B6=E8=80=8C=E5=A6=82=E6=
+=9E=9C=E4=BD=A0=E5=B0=86=E2=80=9C=E6=97=A5=E2=80=9D=E5=AD=97=E6=AE=B5=E8=AE=
+=BE=E4=B8=BA"1W",=E8=80=8C=E4=B8=80=E5=8F=B7=E5=8F=88=E6=98=AF=E5=91=A8=E5=
+=85=AD,=E8=A7=A6=E5=8F=91=E5=99=A8=E4=BC=9A=E4=BA=8E=E4=B8=8B=E5=91=A8=E4=
+=B8=80=E4=B9=9F=E5=B0=B1=E6=98=AF=E5=BD=93=E6=9C=88=E7=9A=843=E5=8F=B7=E8=
+=A7=A6=E5=8F=91,=E5=9B=A0=E4=B8=BA=E5=AE=83=E4=B8=8D=E4=BC=9A=E8=B6=8A=E8=
+=BF=87=E5=BD=93=E6=9C=88=E7=9A=84=E5=80=BC=E7=9A=84=E8=8C=83=E5=9B=B4=E8=BE=
+=B9=E7=95=8C=E3=80=82'W'=E5=AD=97=E7=AC=A6=E5=8F=AA=E8=83=BD=E7=94=A8=E4=BA=
+=8E=E2=80=9C=E6=97=A5=E2=80=9D=E5=AD=97=E6=AE=B5=E7=9A=84=E5=80=BC=E4=B8=BA=
+=E5=8D=95=E7=8B=AC=E7=9A=84=E4=B8=80=E5=A4=A9=E8=80=8C=E4=B8=8D=E6=98=AF=E4=
+=B8=80=E7=B3=BB=E5=88=97=E5=80=BC=E7=9A=84=E6=97=B6=E5=80=99=E3=80=82</span=
+><br><span style=3D"color: rgb(37,37,37);">=E2=80=9CL=E2=80=9D=E5=92=8C=E2=
+=80=9CW=E2=80=9D=E5=8F=AF=E4=BB=A5=E7=BB=84=E5=90=88=E7=94=A8=E4=BA=8E=E2=
+=80=9C=E6=97=A5=E2=80=9D=E5=AD=97=E6=AE=B5=E8=A1=A8=E7=A4=BA=E4=B8=BA'LW'=
+=EF=BC=8C=E6=84=8F=E4=B8=BA"=E8=AF=A5=E6=9C=88=E6=9C=80=E5=90=8E=E4=B8=80=
+=E4=B8=AA=E5=B7=A5=E4=BD=9C=E6=97=A5"=E3=80=82</span><br><span style=3D"col=
+or: rgb(37,37,37);">=E2=80=9C#=E2=80=9D=E2=80=94=E2=80=94=E5=AD=97=E7=AC=A6=
+=E5=8F=AF=E7=94=A8=E4=BA=8E=E2=80=9C=E5=91=A8=E5=87=A0=E2=80=9D=E5=AD=97=E6=
+=AE=B5=E3=80=82=E8=AF=A5=E5=AD=97=E7=AC=A6=E8=A1=A8=E7=A4=BA=E2=80=9C=E8=AF=
+=A5=E6=9C=88=E7=AC=AC=E5=87=A0=E4=B8=AA=E5=91=A8=C3=97=E2=80=9D=EF=BC=8C=E6=
+=AF=94=E5=A6=82"6#3"=E8=A1=A8=E7=A4=BA=E8=AF=A5=E6=9C=88=E7=AC=AC=E4=B8=89=
+=E4=B8=AA=E5=91=A8=E4=BA=94( 6=E8=A1=A8=E7=A4=BA=E5=91=A8=E4=BA=94=E8=80=8C=
+"#3"=E8=AF=A5=E6=9C=88=E7=AC=AC=E4=B8=89=E4=B8=AA)=E3=80=82=E5=86=8D=E6=AF=
+=94=E5=A6=82: "2#1" =3D=E8=A1=A8=E7=A4=BA=E8=AF=A5=E6=9C=88=E7=AC=AC=E4=B8=
+=80=E4=B8=AA=E5=91=A8=E4=B8=80=E8=80=8C"4#5" =3D=E8=AF=A5=E6=9C=88=E7=AC=AC=
+=E4=BA=94=E4=B8=AA=E5=91=A8=E4=B8=89=E3=80=82=E6=B3=A8=E6=84=8F=E5=A6=82=E6=
+=9E=9C=E4=BD=A0=E6=8C=87=E5=AE=9A"#5"=E8=AF=A5=E6=9C=88=E6=B2=A1=E6=9C=89=
+=E7=AC=AC=E4=BA=94=E4=B8=AA=E2=80=9C=E5=91=A8=C3=97=E2=80=9D=EF=BC=8C=E8=AF=
+=A5=E6=9C=88=E6=98=AF=E4=B8=8D=E4=BC=9A=E8=A7=A6=E5=8F=91=E7=9A=84=E3=80=82=
+</span><br><span style=3D"color: rgb(37,37,37);">=E2=80=9CC=E2=80=9D=E2=80=
+=94=E2=80=94=E5=AD=97=E7=AC=A6=E5=8F=AF=E7=94=A8=E4=BA=8E=E2=80=9C=E6=97=A5=
+=E2=80=9D=E5=92=8C=E2=80=9C=E5=91=A8=E5=87=A0=E2=80=9D=E5=AD=97=E6=AE=B5=EF=
+=BC=8C=E5=AE=83=E6=98=AF"calendar"=E7=9A=84=E7=BC=A9=E5=86=99=E3=80=82=E5=
+=AE=83=E8=A1=A8=E7=A4=BA=E4=B8=BA=E5=9F=BA=E4=BA=8E=E7=9B=B8=E5=85=B3=E7=9A=
+=84=E6=97=A5=E5=8E=86=E6=89=80=E8=AE=A1=E7=AE=97=E5=87=BA=E7=9A=84=E5=80=BC=
+=EF=BC=88=E5=A6=82=E6=9E=9C=E6=9C=89=E7=9A=84=E8=AF=9D=EF=BC=89=E3=80=82=E5=
+=A6=82=E6=9E=9C=E6=B2=A1=E6=9C=89=E5=85=B3=E8=81=94=E7=9A=84=E6=97=A5=E5=8E=
+=86,=E9=82=A3=E5=AE=83=E7=AD=89=E5=90=8C=E4=BA=8E=E5=8C=85=E5=90=AB=E5=85=
+=A8=E9=83=A8=E6=97=A5=E5=8E=86=E3=80=82=E2=80=9C=E6=97=A5=E2=80=9D=E5=AD=97=
+=E6=AE=B5=E5=80=BC=E4=B8=BA"5C"=E8=A1=A8=E7=A4=BA"=E6=97=A5=E5=8E=86=E4=B8=
+=AD=E7=9A=84=E7=AC=AC=E4=B8=80=E5=A4=A9=E6=88=96=E8=80=855=E5=8F=B7=E4=BB=
+=A5=E5=90=8E"=EF=BC=8C=E2=80=9C=E5=91=A8=E5=87=A0=E2=80=9D=E5=AD=97=E6=AE=
+=B5=E5=80=BC=E4=B8=BA"1C"=E5=88=99=E8=A1=A8=E7=A4=BA"=E6=97=A5=E5=8E=86=E4=
+=B8=AD=E7=9A=84=E7=AC=AC=E4=B8=80=E5=A4=A9=E6=88=96=E8=80=85=E5=91=A8=E6=97=
+=A5=E4=BB=A5=E5=90=8E"=E3=80=82</span><br><span style=3D"color: rgb(37,37,3=
+7);">=E5=AF=B9=E4=BA=8E=E2=80=9C=E6=9C=88=E4=BB=BD=E2=80=9D=E5=AD=97=E6=AE=
+=B5=E5=92=8C=E2=80=9C=E5=91=A8=E5=87=A0=E2=80=9D=E5=AD=97=E6=AE=B5=E6=9D=A5=
+=E8=AF=B4=E5=90=88=E6=B3=95=E7=9A=84=E5=AD=97=E7=AC=A6=E9=83=BD=E4=B8=8D=E6=
+=98=AF=E5=A4=A7=E5=B0=8F=E5=86=99=E6=95=8F=E6=84=9F=E7=9A=84=E3=80=82</span=
+><br><span style=3D"color: rgb(37,37,37);">=E4=B8=80=E4=BA=9B=E4=BE=8B=E5=
+=AD=90=EF=BC=9A</span></p>
+<p><span style=3D"color: rgb(37,37,37);">&nbsp;</span><span style=3D"color:=
+ rgb(0,0,0);">"0/10 * * * * ?" =E6=AF=8F10=E7=A7=92=E8=A7=A6=E5=8F=91&nbsp;=
+</span><br><span style=3D"color: rgb(37,37,37);">"0 0 12 * * ?"=E6=AF=8F=E5=
+=A4=A9=E4=B8=AD=E5=8D=88=E5=8D=81=E4=BA=8C=E7=82=B9=E8=A7=A6=E5=8F=91</span=
+><br><span style=3D"color: rgb(37,37,37);">"0 15 10 ? * *"=E6=AF=8F=E5=A4=
+=A9=E6=97=A9=E4=B8=8A10=EF=BC=9A15=E8=A7=A6=E5=8F=91</span><br><span style=
+=3D"color: rgb(37,37,37);">"0 15 10 * * ?"=E6=AF=8F=E5=A4=A9=E6=97=A9=E4=B8=
+=8A10=EF=BC=9A15=E8=A7=A6=E5=8F=91</span><br><span style=3D"color: rgb(37,3=
+7,37);">"0 15 10 * * ? *"=E6=AF=8F=E5=A4=A9=E6=97=A9=E4=B8=8A10=EF=BC=9A15=
+=E8=A7=A6=E5=8F=91</span><br><span style=3D"color: rgb(37,37,37);">"0 15 10=
+ * * ? 2005" 2005=E5=B9=B4=E7=9A=84=E6=AF=8F=E5=A4=A9=E6=97=A9=E4=B8=8A10=
+=EF=BC=9A15=E8=A7=A6=E5=8F=91</span><br><span style=3D"color: rgb(37,37,37)=
+;">"0 * 14 * * ?"=E6=AF=8F=E5=A4=A9=E4=BB=8E=E4=B8=8B=E5=8D=882=E7=82=B9=E5=
+=BC=80=E5=A7=8B=E5=88=B02=E7=82=B959=E5=88=86=E6=AF=8F=E5=88=86=E9=92=9F=E4=
+=B8=80=E6=AC=A1=E8=A7=A6=E5=8F=91</span><br><span style=3D"color: rgb(37,37=
+,37);">"0 0/5 14 * * ?"=E6=AF=8F=E5=A4=A9=E4=BB=8E=E4=B8=8B=E5=8D=882=E7=82=
+=B9=E5=BC=80=E5=A7=8B=E5=88=B02=EF=BC=9A55=E5=88=86=E7=BB=93=E6=9D=9F=E6=AF=
+=8F5=E5=88=86=E9=92=9F=E4=B8=80=E6=AC=A1=E8=A7=A6=E5=8F=91</span><br><span =
+style=3D"color: rgb(37,37,37);">"0 0/5 14,18 * * ?"=E6=AF=8F=E5=A4=A9=E7=9A=
+=84=E4=B8=8B=E5=8D=882=E7=82=B9=E8=87=B32=EF=BC=9A55=E5=92=8C6=E7=82=B9=E8=
+=87=B36=E7=82=B955=E5=88=86=E4=B8=A4=E4=B8=AA=E6=97=B6=E9=97=B4=E6=AE=B5=E5=
+=86=85=E6=AF=8F5=E5=88=86=E9=92=9F=E4=B8=80=E6=AC=A1=E8=A7=A6=E5=8F=91</spa=
+n><br><span style=3D"color: rgb(37,37,37);">"0 0-5 14 * * ?"=E6=AF=8F=E5=A4=
+=A914:00=E8=87=B314:05=E6=AF=8F=E5=88=86=E9=92=9F=E4=B8=80=E6=AC=A1=E8=A7=
+=A6=E5=8F=91</span><br><span style=3D"color: rgb(37,37,37);">"0 10,44 14 ? =
+3 WED"=E4=B8=89=E6=9C=88=E7=9A=84=E6=AF=8F=E5=91=A8=E4=B8=89=E7=9A=8414=EF=
+=BC=9A10=E5=92=8C14=EF=BC=9A44=E8=A7=A6=E5=8F=91</span><br><span style=3D"c=
+olor: rgb(37,37,37);">"0 15 10 ? * MON-FRI"=E6=AF=8F=E4=B8=AA=E5=91=A8=E4=
+=B8=80=E3=80=81=E5=91=A8=E4=BA=8C=E3=80=81=E5=91=A8=E4=B8=89=E3=80=81=E5=91=
+=A8=E5=9B=9B=E3=80=81=E5=91=A8=E4=BA=94=E7=9A=8410=EF=BC=9A15=E8=A7=A6=E5=
+=8F=91</span><br><span style=3D"color: rgb(37,37,37);">"0 15 10 15 * ?"=E6=
+=AF=8F=E6=9C=8815=E5=8F=B7=E7=9A=8410=EF=BC=9A15=E8=A7=A6=E5=8F=91</span><b=
+r><span style=3D"color: rgb(37,37,37);">"0 15 10 L * ?"=E6=AF=8F=E6=9C=88=
+=E7=9A=84=E6=9C=80=E5=90=8E=E4=B8=80=E5=A4=A9=E7=9A=8410=EF=BC=9A15=E8=A7=
+=A6=E5=8F=91</span></p>
+<p>&nbsp;</p>
+<p>5=E3=80=81Spring=E5=AE=9A=E6=97=B6=E5=99=A8=E5=9C=A8=E5=93=AA=E9=87=8C=
+=E4=BD=BF=E7=94=A8=EF=BC=9F<br>=E5=BE=88=E5=A4=9A=E6=97=B6=E5=80=99=E6=88=
+=91=E4=BB=AC=E9=9C=80=E8=A6=81=E5=AE=9A=E6=97=B6=E6=89=A7=E8=A1=8C=E4=B8=80=
+=E4=BA=9B=E4=BB=BB=E5=8A=A1=EF=BC=8C=E6=AF=94=E5=A6=82=E4=B8=80=E4=BA=9B=E4=
+=BD=BF=E7=94=A8=E5=9C=BA=E6=99=AF=E5=A6=82=E4=B8=8B=EF=BC=9A<br>1.=E6=AF=8F=
+=E5=A4=A9=E6=99=9A=E4=B8=8A=E5=87=8C=E6=99=A8=E5=BA=94=E7=94=A8=E7=A8=8B=E5=
+=BA=8F=E7=A9=BA=E9=97=B2=E7=9A=84=E6=97=B6=E9=97=B4=EF=BC=8C=E6=89=A7=E8=A1=
+=8C=E4=B8=80=E4=BA=9B=E7=BB=9F=E8=AE=A1=E7=9A=84=E4=BB=BB=E5=8A=A1=E3=80=82=
+<br>2.=E6=AF=8F=E9=9A=9415=E5=88=86=E9=92=9F=E6=A3=80=E6=9F=A5=E6=96=B0=E4=
+=B8=8B=E7=9A=84=E8=AE=A2=E5=8D=95=EF=BC=8C=E8=B6=85=E8=BF=87=E6=94=AF=E4=BB=
+=98=E6=97=B6=E9=97=B4=E7=9A=84=E8=AE=A2=E5=8D=95=E8=87=AA=E5=8A=A8=E5=8F=96=
+=E6=B6=88=E3=80=82<br>3.=E6=AF=8F=E9=9A=942=E5=B0=8F=E6=97=B6=E8=87=AA=E5=
+=8A=A8=E5=88=B7=E6=96=B0=E5=BE=AE=E4=BF=A1=E7=9A=84access_token=E6=9C=89=E6=
+=95=88=E6=97=B6=E9=97=B4=E3=80=82<br>...</p>
+<p><br>6=E3=80=81Spring=E5=AE=9A=E6=97=B6=E5=99=A8=E7=9A=84=E8=AF=BE=E5=90=
+=8E=E7=BB=83=E4=B9=A0<br>=EF=BC=88=E6=97=A0=EF=BC=89</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_86_2046694383.1483523958059--

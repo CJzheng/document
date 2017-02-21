@@ -1,0 +1,835 @@
+Message-ID: <1784734954.109.1483524009570.JavaMail.WINSERVER-2012$@winserver-2012>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_108_825171775.1483524009570"
+
+------=_Part_108_825171775.1483524009570
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>3.7 GWT=E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>3.7 GWT=E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7</h1>
+    <div class=3D"Section1">
+        <p><a href=3D"#id-3.7GWT=E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7-Widget=
+CreateUtil">WidgetCreateUtil=EF=BC=88=E5=B8=B8=E7=94=A8=E7=BB=84=E4=BB=B6=
+=E5=B7=A5=E5=85=B7=E7=B1=BB=EF=BC=89</a></p>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"#id-3.7GWT=E5=B8=B8=E7=94=
+=A8=E5=B7=A5=E5=85=B7-WeixinSelectImgTxtUtil">WeixinSelectImgTxtUtil(=E5=BE=
+=AE=E4=BF=A1=E5=9B=BE=E6=96=87=E6=B6=88=E6=81=AF=E9=80=89=E6=8B=A9=E7=BB=84=
+=E4=BB=B6)</a></span></p>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"#id-3.7GWT=E5=B8=B8=E7=94=
+=A8=E5=B7=A5=E5=85=B7-FormUtil">FormUtil(=E8=A1=A8=E5=8D=95=E6=93=8D=E4=BD=
+=9C=E5=B7=A5=E5=85=B7=E7=B1=BB=EF=BC=8C=E8=8E=B7=E5=8F=96=E8=A1=A8=E5=8D=95=
+=E5=80=BC=E6=88=96=E8=B5=8B=E5=80=BC)</a></span></p>
+<p><a href=3D"#id-3.7GWT=E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7-ModelUtil">Mod=
+elUtil=EF=BC=88Model=E5=92=8CJson=E4=BA=92=E8=BD=AC=E5=B7=A5=E5=85=B7=E7=B1=
+=BB=EF=BC=89</a></p>
+<p><span style=3D"color: rgb(0,0,0);"><a href=3D"#id-3.7GWT=E5=B8=B8=E7=94=
+=A8=E5=B7=A5=E5=85=B7-RestUtil">RestUtil (=E5=89=8D=E5=90=8E=E7=AB=AF=E6=95=
+=B0=E6=8D=AE=E4=BA=A4=E4=BA=92=E5=B7=A5=E5=85=B7=E7=B1=BB)</a></span></p>
+<h2 id=3D"id-3.7GWT=E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7-WidgetCreateUtil">W=
+idgetCreateUtil</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0</th>
+<th colspan=3D"1" class=3D"confluenceTh">=E7=B1=BB=E5=9E=8B</th>
+<th class=3D"confluenceTh">=E8=A7=A3=E6=9E=90</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">id</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>String</span></td>
+<td class=3D"confluenceTd">=E7=BB=84=E4=BB=B6=E7=9A=84=E5=94=AF=E4=B8=80ID=
+=EF=BC=8C=E5=90=8C=E4=B8=80=E9=A1=B5=E9=9D=A2=E4=B8=8D=E5=8F=AF=E9=87=8D=E5=
+=A4=8D &nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">name</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>String</span></td>
+<td class=3D"confluenceTd">=E7=BB=84=E4=BB=B6=E7=9A=84=E5=90=8D=E7=A7=B0=EF=
+=BC=88=E8=8B=B1=E6=96=87=EF=BC=89</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd">btnText</td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>String</span></td>
+<td class=3D"confluenceTd">=E6=8C=89=E9=92=AE=E6=96=87=E5=AD=97&nbsp;</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>styleName</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>String</span></p></td>
+<td class=3D"confluenceTd"><p>=E6=A0=B7=E5=BC=8F=E5=90=8D=E7=A7=B0</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>fieldLabel</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>String</span></p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=84=E4=BB=B6=E6=A0=87=E7=AD=BE &nbsp;</=
+p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>value</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>String</span></p></td>
+<td class=3D"confluenceTd"><p>=E5=80=BC &nbsp;</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>blankText</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>String</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E7=A9=BA=E6=8F=90=E7=A4=BA=E6=
+=96=87=E5=AD=97</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>allowblank</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>boolean</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=98=AF=E5=90=A6=E5=85=81=E8=
+=AE=B8=E4=B8=BA=E7=A9=BA</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>maxlength</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>int</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E8=BE=93=E5=85=A5=E5=AD=97=E7=
+=AC=A6=E6=9C=80=E5=A4=A7=E9=95=BF=E5=BA=A6</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>displayField</span></p></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>String</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>=E7=94=A8=E4=BA=8E=E6=98=
+=BE=E7=A4=BA=E4=B8=8B=E6=8B=89=E9=80=89=E6=8B=A9=E6=97=B6=E5=B1=95=E7=A4=BA=
+=E7=9A=84=E6=96=87=E5=AD=97</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>isCurrencyField</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>boolean&nbsp;</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>=E6=98=AF=E5=90=A6=E9=87=91=
+=E9=A2=9D</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>listStore</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>ListStore&lt;ModelData&gt; <=
+/span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>=E5=AD=98=E5=82=A8=E6=95=B0=
+=E6=8D=AE=E7=9A=84Store</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>selectionMode</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Style.SelectionMode</span></=
+td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>=E5=A4=9A=E9=80=89=E6=88=96=
+=E5=8D=95=E9=80=89</span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>itemId</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>String&nbsp;</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>Radio=E7=9A=84=E5=94=AF=E4=
+=B8=80ID=EF=BC=8C=E9=A1=B5=E9=9D=A2=E4=B8=8D=E5=8F=AF=E9=87=8D=E5=A4=8D</sp=
+an></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>unit</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>String</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>=E5=8D=95=E4=BD=8D=EF=BC=8C<=
+span> =E4=BE=8B=E5=A6=82=EF=BC=9A=EF=BF=A5 %</span></span></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><span>regex</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>String</span></td>
+<td colspan=3D"1" class=3D"confluenceTd"><span>=E6=AD=A3=E5=88=99=E8=A1=A8=
+=E8=BE=BE=E5=BC=8F</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E6=96=B9=E6=B3=95</th>
+<th class=3D"confluenceTh">=E8=A7=A3=E6=9E=90</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">BaseButton&nbsp;createButton(String btnText, Str=
+ing styleName)</td>
+<td class=3D"confluenceTd">=E5=88=9B=E5=BB=BA=E6=8C=89=E9=92=AE</td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>HiddenField&lt;String&gt; createHiddenField(S=
+tring name, String value)</p></td>
+<td class=3D"confluenceTd"><p>=E5=88=9B=E5=BB=BA=E9=9A=90=E8=97=8FField=EF=
+=BC=88=E7=9B=B8=E5=BD=93=E4=BA=8EHTML=E9=9A=90=E8=97=8F=E7=9A=84input=EF=BC=
+=89</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>DateRangeField createDateRangeField(String id=
+, String name, String fieldLabel)</p></td>
+<td class=3D"confluenceTd"><p>=E5=88=9B=E5=BB=BA=E6=97=A5=E6=9C=9F=E8=8C=83=
+=E5=9B=B4=E9=80=89=E6=8B=A9=E7=BB=84=E4=BB=B6</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>NumberRangeField createNumberRangeField(Strin=
+g id, String name,boolean&nbsp;isCurrencyField,String fieldLabel)</p></td>
+<td class=3D"confluenceTd"><p>=E5=88=9B=E5=BB=BA=E6=95=B0=E5=80=BC=E8=8C=83=
+=E5=9B=B4=E8=BE=93=E5=85=A5=E7=BB=84=E4=BB=B6</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>SimpleComboBox createSimpleComboBox(String id=
+, String name, String fieldLabel, ListStore&lt;ModelData&gt; listStore , St=
+ring displayField, String blankText)</p></td>
+<td class=3D"confluenceTd"><p>=E6=99=AE=E9=80=9A=E4=B8=8B=E6=8B=89=E9=80=89=
+=E6=8B=A9=E7=BB=84=E4=BB=B6</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>CmbCheckBoxSelector createCmbCheckBoxSelector=
+(String id, String name, String fieldLabel, ListStore&lt;ModelData&gt; list=
+Store , Style.SelectionMode selectionMode, String property, String displayF=
+ield, String blankText)&nbsp;</p></td>
+<td class=3D"confluenceTd"><p>=E5=B8=A6checkbox=E7=9A=84=E4=B8=8B=E6=8B=89=
+=E9=80=89=E6=8B=A9=E7=BB=84=E4=BB=B6</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Radio createRadio(String&nbsp;id,&nbsp;String=
+&nbsp;name,&nbsp;String&nbsp;itemId,&nbsp;String&nbsp;fieldLabel,&nbsp;bool=
+ean&nbsp;value)</p></td>
+<td class=3D"confluenceTd"><p>=E5=88=9B=E5=BB=BA=E6=99=AE=E9=80=9A=E7=9A=84=
+=E5=8D=95=E4=B8=AARadio</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>RadioGroup createBooleanRadioGroup(String nam=
+e, String <span>fieldLabel</span>, BoolCodeEnum defaultValue)</p></td>
+<td class=3D"confluenceTd"><p>=E5=88=9B=E5=BB=BARadio=E7=BB=84(<span>=E6=98=
+=AF=E5=92=8C=E5=90=A6</span>)</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>RadioGroup createEnumRadioGroup(String name, =
+String <span>fieldLabel</span>, Map&lt;String, ICodeEnum&gt; labelValuelMap=
+, ICodeEnum defaultValue)</p></td>
+<td class=3D"confluenceTd"><p>=E6=A0=B9=E6=8D=AEEnum=E9=9B=86=E5=90=88=E5=
+=88=9B=E5=BB=BARadio=E7=BB=84</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>RadioGroup createRadioGroup(String name, Stri=
+ng label, Map&lt;String, String&gt; labelValuelMap, String defaultValue)</p=
+></td>
+<td class=3D"confluenceTd"><p><span>=E6=A0=B9=E6=8D=AEString=E9=9B=86=E5=90=
+=88=E5=88=9B=E5=BB=BARadio=E7=BB=84</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ComboBox&lt;ModelData&gt; createSimpeComboBox=
+(String name, String fieldLabel , Map&lt;String, String&gt; labelValuelMap,=
+ String defaultValue)</p></td>
+<td class=3D"confluenceTd"><p><span>=E6=A0=B9=E6=8D=AEEnum=E9=9B=86=E5=90=
+=88=E5=88=9B=E5=BB=BA=E4=B8=8B=E6=8B=89=E9=80=89=E6=8B=A9=E7=BB=84=E4=BB=B6=
+</span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ComboBox&lt;ModelData&gt; createEnumComboBox(=
+String name, String fieldLabel , Map&lt;String, ICodeEnum&gt; labelValuelMa=
+p, ICodeEnum defaultValue)</p></td>
+<td class=3D"confluenceTd"><p><span>=E6=A0=B9=E6=8D=AEString=E9=9B=86=E5=90=
+=88<span>=E5=88=9B=E5=BB=BA=E4=B8=8B=E6=8B=89=E9=80=89=E6=8B=A9=E7=BB=84</s=
+pan></span></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>DateField <span>createDateField</span>(String=
+ name, String fieldLabel)</p></td>
+<td class=3D"confluenceTd"><p>=E5=8D=95=E4=B8=AA=E6=97=A5=E6=9C=9F=E9=80=89=
+=E6=8B=A9=E7=BB=84=E4=BB=B6</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>DateTimeSelector createDateTimeSelector(Strin=
+g id, String name, String fieldLabel)</p></td>
+<td class=3D"confluenceTd"><p>=E6=97=A5=E6=9C=9F=E6=97=B6=E9=97=B4=E9=80=89=
+=E6=8B=A9=E7=BB=84=E4=BB=B6</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>DateTimeSelector createDateTimeSelector(Strin=
+g id, String name, String fieldLabel,<span style=3D"color: rgb(0,0,128);">b=
+oolean </span>allowblank)</p></td>
+<td class=3D"confluenceTd"><p>=E6=97=A5=E6=9C=9F=E6=97=B6=E9=97=B4=E9=80=89=
+=E6=8B=A9=E7=BB=84=E4=BB=B6</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>UnitField createCurrencyUnitField(String name=
+, String unit,String fieldLabel, <span style=3D"color: rgb(0,0,128);">boole=
+an </span>allowblank)</p></td>
+<td class=3D"confluenceTd"><p>=E5=B8=A6=E5=8D=95=E4=BD=8D=E7=9A=84=E8=BE=93=
+=E5=85=A5=E6=A1=86=EF=BC=8C=E5=85=81=E8=AE=B8=E5=B0=8F=E6=95=B0=E7=82=B9=E5=
+=90=8E=E4=B8=A4=E4=BD=8D</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>UnitField createIntegerUnitField(String name,=
+ String unit,String fieldLabel, <span style=3D"color: rgb(0,0,128);">boolea=
+n </span>allowblank)</p></td>
+<td class=3D"confluenceTd"><p>=E5=B8=A6=E5=8D=95=E4=BD=8D=E7=9A=84=E8=BE=93=
+=E5=85=A5=E6=A1=86=EF=BC=8C=E5=A4=A7=E4=BA=8E=E6=88=96=E7=AD=89=E4=BA=8E0=
+=E7=9A=84=E6=95=B4=E6=95=B0=E5=80=BC</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>TextArea createTextArea(String =
+name, String fieldLabel, <span style=3D"color: rgb(0,0,128);">boolean </spa=
+n>allowblank, <span style=3D"color: rgb(0,0,128);">int </span>maxlength, <s=
+pan style=3D"color: rgb(0,0,128);">int </span>height)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E5=A4=9A=E8=A1=8C=E6=96=87=E6=
+=9C=AC=E8=BE=93=E5=85=A5=E6=A1=86</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>TextField&lt;String&gt; createC=
+urrencyField(String name, String fieldLabel, <span style=3D"color: rgb(0,0,=
+128);">boolean </span>allowblank)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E9=87=91=E9=A2=9D=E8=BE=93=E5=
+=85=A5=E6=A1=86=EF=BC=8C<span style=3D"line-height: 1.42857;">=E6=95=B4=E6=
+=95=B0=E4=B8=8D=E8=B6=85=E8=BF=879=E4=BD=8D=EF=BC=8C=E5=B0=8F=E6=95=B0=E4=
+=B8=8D=E8=B6=85=E8=BF=872=E4=BD=8D</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>createAmountField(String name, =
+String fieldLabel, <span style=3D"color: rgb(0,0,128);">boolean </span>allo=
+wBlank)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=95=B0=E9=87=8F=E8=BE=93=E5=
+=85=A5=E6=A1=86<span>=EF=BC=8C</span><span>=E5=A4=A7=E4=BA=8E=E6=88=96=E7=
+=AD=89=E4=BA=8E0=E7=9A=84=E6=95=B4=E6=95=B0=E5=80=BC</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>TextField&lt;String&gt; createT=
+extField(String name, String fieldLabel, <span style=3D"color: rgb(0,0,128)=
+;">boolean </span>allowblank, <span style=3D"color: rgb(0,0,128);">int </sp=
+an>maxlength)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=96=87=E6=9C=AC=E8=BE=93=E5=
+=85=A5=E6=A1=86</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>SplitField createSplitTextField=
+(String name, String fieldLabel, <span style=3D"color: rgb(0,0,128);">boole=
+an </span>allowblank, <span style=3D"color: rgb(0,0,128);">int </span>maxle=
+ngth)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E5=AE=9E=E7=8E=B0=E4=B8=80=E4=
+=B8=AA=E5=8F=AF=E4=BB=A5=E5=B0=86=E4=B8=AD=E6=96=87=E9=80=97=E5=8F=B7=E8=BD=
+=AC=E6=8D=A2=E6=88=90=E8=8B=B1=E6=96=87=E9=80=97=E5=8F=B7=E7=9A=84TextField=
+</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>TextField&lt;String&gt; createM=
+ultiInputField(String name, String fieldLabel, <span style=3D"color: rgb(0,=
+0,128);">boolean </span>allowblank, <span style=3D"color: rgb(0,0,128);">in=
+t </span>maxlength)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>=E5=A4=9A=E8=A1=8C=E6=96=
+=87=E6=9C=AC=E8=BE=93=E5=85=A5=E6=A1=86</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>HtmlEditor createHtmlField(Stri=
+ng name, String fieldLabel, <span style=3D"color: rgb(0,0,128);">boolean </=
+span>allowblank, <span style=3D"color: rgb(0,0,128);">final int </span>maxl=
+ength)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>HTML=E7=BC=96=E8=BE=91=E5=99=A8=
+</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>TextField&lt;String&gt; createT=
+extField(String name, String fieldLabel, <span style=3D"color: rgb(0,0,128)=
+;">boolean </span>allowblank, <span style=3D"color: rgb(0,0,128);">int </sp=
+an>maxlength, String regex, String regexErrorText)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E8=87=AA=E5=AE=9A=E4=B9=89=E6=
+=AD=A3=E5=88=99=E7=9A=84=E6=96=87=E6=9C=AC=E8=BE=93=E5=85=A5=E6=A1=86</p></=
+td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>AdapterField createLabelTextFie=
+ld(String fieldLabel, String text)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>form=E4=BD=BF=E7=94=A8=E7=9A=84=
+=E7=BA=AF=E6=96=87=E6=9C=AC=E7=BB=84=E4=BB=B6=EF=BC=8C=E8=83=BD=E5=A4=9F=E5=
+=AF=B9=E9=BD=90formLabel=E4=B8=8D=E4=B8=8A=E6=B5=AE</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>FCKEditor createCKEditor(String=
+ fieldLabel, <span style=3D"color: rgb(0,0,128);">int </span>height)</p></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E5=AF=8C=E6=96=87=E6=9C=AC=E7=
+=BC=96=E8=BE=91=E5=99=A8</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>FCKEditor</span> createCK=
+Editor(String fieldLabel, <span style=3D"color: rgb(0,0,128);">int </span>h=
+eight, <span style=3D"color: rgb(0,0,128);">boolean </span>allowblank)</p><=
+/td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>=E5=AF=8C=E6=96=87=E6=9C=
+=AC=E7=BC=96=E8=BE=91=E5=99=A8=EF=BC=8C=E5=8F=AF=E8=AE=BE=E7=BD=AE=E6=98=AF=
+=E5=90=A6=E5=85=81=E8=AE=B8=E4=B8=BA=E7=A9=BA</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>LabelField</span> createH=
+elpField(String toolTipConfigText)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E5=88=9B=E5=BB=BA=E5=B8=A6=E9=
+=BC=A0=E6=A0=87=E5=88=92=E8=BF=87=E6=98=BE=E7=A4=BA=E6=8F=90=E7=A4=BA=E7=9A=
+=84Field</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<h2 id=3D"id-3.7GWT=E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7-WeixinSelectImgTxtU=
+til"><span style=3D"color: rgb(0,0,0);">WeixinSelectImgTxtUtil</span></h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>=E5=8F=82=E6=95=B0</p></th>
+<th class=3D"confluenceTh"><p>=E7=B1=BB=E5=9E=8B</p></th>
+<th colspan=3D"1" class=3D"confluenceTh"><p>=E8=A7=A3=E6=9E=90</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>component</p></td>
+<td class=3D"confluenceTd"><p>Component</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E5=BD=93=E5=89=8D=E9=A1=B5=E9=
+=9D=A2this</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>isPreview</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">boolean</span></p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E6=98=AF=E5=90=A6=E6=98=BE=E7=
+=A4=BA=E9=80=89=E6=8B=A9=E7=9A=84=E7=BB=93=E6=9E=9C</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>=E6=96=B9=E6=B3=95</p></th>
+<th class=3D"confluenceTh"><p>=E8=A7=A3=E6=9E=90</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>LayoutContainer createWidget(Component compon=
+ent,<span style=3D"color: rgb(0,0,128);">boolean </span>isPreview)</p></td>
+<td class=3D"confluenceTd"><p>=E5=88=9B=E5=BB=BA=E5=9B=BE=E6=96=87=E4=B8=8B=
+=E6=8B=89=E9=80=89=E6=8B=A9=E7=BB=84=E4=BB=B6</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Integer getImgTextId(Component component)</p>=
+</td>
+<td class=3D"confluenceTd"><p>=E8=8E=B7=E5=8F=96=E5=9B=BE=E6=96=87ID</p></t=
+d>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ModelData getSelectData(Component component)<=
+/p></td>
+<td class=3D"confluenceTd"><p>=E8=8E=B7=E5=8F=96=E9=80=89=E4=B8=AD=E7=9A=84=
+=E5=9B=BE=E6=96=87=E4=BF=A1=E6=81=AF</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,128);">void </s=
+pan>setData(Component component,ModelData modelData)</p></td>
+<td class=3D"confluenceTd"><p>=E8=B5=8B=E5=80=BC</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,128);">void </s=
+pan>reset(Component component)</p></td>
+<td class=3D"confluenceTd"><p>=E9=87=8D=E7=BD=AE</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3.7GWT=E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7-FormUtil"><span sty=
+le=3D"color: rgb(0,0,0);"><span style=3D"color: rgb(0,0,0);">FormUtil</span=
+></span></h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p>=E6=96=B9=E6=B3=95</p></th>
+<th class=3D"confluenceTh"><p>=E8=A7=A3=E6=9E=90</p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>JSONObject getFormObject(FormPanel formPanel)=
+</p></td>
+<td class=3D"confluenceTd"><p>=E8=8E=B7=E5=8F=96=E8=A1=A8=E5=8D=95=E4=B8=AD=
+=E9=83=A8=E4=BB=B6=E7=9A=84=E5=80=BC=E5=B9=B6=E4=BB=A5JSON=E5=AF=B9=E8=B1=
+=A1=E8=BF=94=E5=9B=9E</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,128);">void </s=
+pan>setFormValues(FormPanel formPanel, ModelData modelData)</p></td>
+<td class=3D"confluenceTd"><p>=E7=BB=99=E8=A1=A8=E5=8D=95=E4=B8=AD=E7=9A=84=
+<span>=E9=83=A8=E4=BB=B6</span>=E8=B5=8B=E5=80=BC</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">void </span>bindTextFieldByMultiField(FormPanel formPanel, ModelData =
+model)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E7=BB=99=E8=A1=A8=E5=8D=95=E4=
+=B8=AD=E7=9A=84<span style=3D"line-height: 1.42857;"><span style=3D"line-he=
+ight: 1.42857;">MultiField<span>=E9=83=A8=E4=BB=B6=E4=B8=AD=E7=9A=84=E6=89=
+=80=E6=9C=89</span></span></span><span style=3D"line-height: 1.42857;">Text=
+Field=E9=83=A8=E4=BB=B6=E8=B5=8B=E5=80=BC</span></p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">void </span>bindCheckBox(FormPanel formPanel, ModelData model)</p></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E7=BB=99=E8=A1=A8=E5=8D=95=E4=
+=B8=AD=E7=9A=84checkbox=E8=B5=8B=E5=80=BC</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">void </span>setRadioGroupValue(RadioGroup radioGroup, String value)</=
+p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E7=BB=99Radio=E7=BB=84=E8=B5=
+=8B=E5=80=BC</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3.7GWT=E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7-ModelUtil">ModelUti=
+l</h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E5=8F=82=E6=95=B0</th>
+<th colspan=3D"1" class=3D"confluenceTh">=E7=B1=BB=E5=9E=8B</th>
+<th class=3D"confluenceTh">=E8=A7=A3=E6=9E=90</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>modelCreator</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>ModelUtil.<span>ModelCreator</s=
+pan></p></td>
+<td class=3D"confluenceTd"><p>=E6=8E=A5=E5=8F=A3=E8=BF=94=E5=9B=9EModelData=
+=E5=AE=9E=E4=BE=8B=E5=8C=96</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E6=96=B9=E6=B3=95</th>
+<th class=3D"confluenceTh">=E8=A7=A3=E6=9E=90</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>JSONObject getModelData2json(ModelData modelD=
+ata)</p></td>
+<td class=3D"confluenceTd"><p>=E5=8D=95=E4=B8=AAModelData=E8=BD=ACJson=E5=
+=AF=B9=E8=B1=A1</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>JSONArray getModelData2json(List&lt;ModelData=
+&gt; modelDataList)</p></td>
+<td class=3D"confluenceTd"><p>=E5=A4=9A=E4=B8=AAModelData=E8=BD=ACJson=E5=
+=AF=B9=E8=B1=A1</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>ModelData json2ModelData(JSONObject jobj, Mod=
+elCreator modelCreator)</p></td>
+<td class=3D"confluenceTd"><p>Json=E5=AF=B9=E8=B1=A1=E8=BD=ACModeldata</p><=
+/td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>ModelData json2ModelData(JSONOb=
+ject jobj, ModelCreator modelCreator, ModelType modelType)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E5=AE=9E=E7=8E=B0=E4=B8=80=E4=
+=B8=AA=E5=B8=A6 ModelType =E8=A7=A3=E6=9E=90=E7=9A=84=E5=B7=A5=E5=85=B7=EF=
+=BC=8C=E5=A6=82=E6=9E=9CModelType=E6=B3=A8=E6=98=8E=E4=BA=86=E5=AD=97=E6=AE=
+=B5=E7=9A=84=E7=B1=BB=E5=9E=8B=E5=B0=B1=E9=87=87=E7=94=A8=E6=AD=A4=E7=B1=BB=
+=E5=9E=8B=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=B2=A1=E6=9C=89=E5=B0=B1=E6=8C=89=E9=
+=BB=98=E8=AE=A4=E7=9A=84=E6=95=B0=E6=8D=AE=E7=B1=BB=E5=9E=8B=E8=A7=A3=E6=9E=
+=90</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p>List&lt;Object&gt; getModelData=
+List(JSONArray jarray, ModelCreator creator)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span>Json=E6=95=B0=E7=BB=84=E8=
+=BD=ACList</span></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 id=3D"id-3.7GWT=E5=B8=B8=E7=94=A8=E5=B7=A5=E5=85=B7-RestUtil">RestUtil<=
+/h2>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=E6=96=B9=E6=B3=95</th>
+<th class=3D"confluenceTh">=E8=A7=A3=E6=9E=90</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>String parseRestQueryString(ModelData <span>d=
+ata</span>)</p></td>
+<td class=3D"confluenceTd"><p>=E5=B0=86ModelData=E5=AF=B9=E8=B1=A1=E8=BD=AC=
+=E6=88=90 xxx=3Dxxxx&amp;&amp;xxxxx=3Dxxxxx=E6=A0=BC=E5=BC=8F</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>String getHostUrl(String uri)</p></td>
+<td class=3D"confluenceTd"><p>=E6=A0=B9=E6=8D=AE=E8=AF=B7=E6=B1=82=E8=B7=AF=
+=E5=BE=84=E8=8E=B7=E5=8F=96=E8=B7=AF=E5=BE=84=E7=9A=84Host</p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,128);">void </s=
+pan>sendRestRequest(String uri, String objectIdKey, List&lt;Object&gt; obje=
+ctIds, List&lt;ModelData&gt; models, RestMethod method, <span style=3D"colo=
+r: rgb(0,0,128);">final </span>RequestCallback callback)</p></td>
+<td class=3D"confluenceTd"><p>Controller=E9=9C=80=E8=A6=81=E4=BB=A5=E6=95=
+=B0=E7=BB=84=E6=8E=A5=E6=94=B6=E6=97=B6(<span style=3D"color: rgb(128,128,0=
+);">@RequestParam</span>(<span style=3D"color: rgb(0,128,0);">"items"</span=
+>) java.lang.Integer[] <span style=3D"line-height: 1.42857;">items=EF=BC=8C=
+<span>objectIdKey=E4=B8=BA<span style=3D"color: rgb(0,128,0);">items</span>=
+</span></span>)=E4=BD=BF=E7=94=A8=E8=AF=A5=E8=AF=B7=E6=B1=82=E6=96=B9=E5=BC=
+=8F</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">void </span><span style=3D"white-space: pre-wrap;font-family: Arial ,=
+ sans-serif;line-height: 1.42857;">sendRestRequest(String uri, List&lt;Mode=
+lData&gt; models, RestMethod method, </span><span style=3D"color: rgb(0,0,1=
+28);">final </span><span style=3D"white-space: pre-wrap;font-family: Arial =
+, sans-serif;line-height: 1.42857;">RequestCallback callback)</span></p></t=
+d>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E8=AF=B7=E6=B1=82=E6=97=B6=E4=
+=BC=A0=E9=80=92=E5=A4=9A=E4=B8=AAModelData=E5=AF=B9=E8=B1=A1=EF=BC=8C=E5=AE=
+=9E=E9=99=85=E4=BD=BF=E7=94=A8=E4=B8=ADmodels=E5=A4=9A=E4=BC=A0=E9=80=92=E7=
+=A9=BA=E9=9B=86=EF=BC=88<span>&nbsp;</span><span style=3D"color: rgb(0,0,12=
+8);">new </span><span>ArrayList&lt;ModelData&gt;()</span>=EF=BC=89</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">void </span>sendRestRequest(String uri, ModelData model, RestMethod m=
+ethod, <span style=3D"color: rgb(0,0,128);">final </span>RequestCallback ca=
+llback)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E8=AF=B7=E6=B1=82=E6=97=B6=E4=
+=BC=A0=E9=80=92=E5=8D=95=E4=B8=AAModelData=E5=AF=B9=E8=B1=A1=EF=BC=8C=E5=AE=
+=9E=E9=99=85=E4=BD=BF=E7=94=A8=E4=B8=AD=E9=9C=80=E8=A6=81=E4=BC=A0=E9=80=92=
+=E5=8F=82=E6=95=B0=E7=9A=84=E5=A4=A7=E5=A4=9A=E4=BD=BF=E7=94=A8=E6=AD=A4=E6=
+=96=B9=E6=B3=95</p></td>
+</tr>
+<tr>
+<td colspan=3D"1" class=3D"confluenceTd"><p><span style=3D"color: rgb(0,0,1=
+28);">void </span>sendJsonRestRequest(String uri, JSONValue value, RestMeth=
+od method, <span style=3D"color: rgb(0,0,128);">final </span>RequestCallbac=
+k callback)</p></td>
+<td colspan=3D"1" class=3D"confluenceTd"><p>=E8=AF=B7=E6=B1=82=E6=97=B6=E4=
+=BC=A0=E9=80=92Json=E5=AF=B9=E8=B1=A1=EF=BC=8C=E5=A4=9A=E7=94=A8=E4=BA=8E=
+=E9=9C=80=E8=A6=81=E4=BC=A0=E9=80=92=E5=A4=8D=E6=9D=82=E5=AF=B9=E8=B1=A1=E6=
+=97=B6=EF=BC=88=E5=A6=82=E4=BC=A0=E9=80=92=E7=9A=84=E5=AF=B9=E8=B1=A1=E4=B8=
+=AD=E6=9C=89List=EF=BC=89=EF=BC=8CController=E9=9C=80=E8=A6=81=E4=BB=A5<spa=
+n style=3D"color: rgb(128,128,0);"><span style=3D"line-height: 20.0px;">=EF=
+=BC=88</span></span><span style=3D"color: rgb(128,128,0);">@RequestBody </s=
+pan>Demoxxx demo<span style=3D"color: rgb(128,128,0);"><span style=3D"line-=
+height: 20.0px;">=EF=BC=89</span></span>=E6=8E=A5=E6=94=B6</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><br><br><br></p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_108_825171775.1483524009570--

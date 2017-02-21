@@ -1,0 +1,776 @@
+Message-ID: <1010621702.99.1483523986233.JavaMail.WINSERVER-2012$@winserver-2012>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_98_761799421.1483523986233"
+
+------=_Part_98_761799421.1483523986233
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>3.5=09GWT=E6=95=B0=E6=8D=AE=E4=BA=A4=E4=BA=92</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>3.5=09GWT=E6=95=B0=E6=8D=AE=E4=BA=A4=E4=BA=92</h1>
+    <div class=3D"Section1">
+        <h2 id=3D"id-3.5GWT=E6=95=B0=E6=8D=AE=E4=BA=A4=E4=BA=92-1=E3=80=81=
+=E5=88=97=E8=A1=A8=E8=AF=B7=E6=B1=82=E6=95=B0=E6=8D=AE"><strong>1=E3=80=81=
+=E5=88=97=E8=A1=A8=E8=AF=B7=E6=B1=82=E6=95=B0=E6=8D=AE</strong></h2>
+<p style=3D"margin-left: 30.0px;">=E4=B8=80=E4=B8=AA=E5=88=97=E8=A1=A8=E4=
+=BB=8E=E5=88=9B=E5=BB=BA=E5=88=B0=E6=95=B0=E6=8D=AE=E7=9A=84=E5=8A=A0=E8=BD=
+=BD=E4=B8=BB=E8=A6=81=E9=9C=80=E8=A6=81=E4=BB=A5=E4=B8=8B=E5=87=A0=E6=AD=A5=
+=EF=BC=9A</p>
+<p style=3D"margin-left: 30.0px;">=E2=9D=B6 =E5=88=9B=E5=BB=BA &nbsp;proxy =
+=EF=BC=88HttpProxy&lt;String&gt;=EF=BC=89=EF=BC=8C=E7=94=A8=E4=BA=8E=E5=B0=
+=81=E8=A3=85=E8=AF=B7=E6=B1=82=E6=96=B9=E6=B3=95=E3=80=81=E5=9C=B0=E5=9D=80=
+=E3=80=81=E5=9B=9E=E8=B0=83=E7=AD=89=E5=8F=82=E6=95=B0=E3=80=82</p>
+<p style=3D"margin-left: 30.0px;">=E2=9D=B7 =E5=88=9B=E5=BB=BA &nbsp;reader=
+ =EF=BC=88JsonPagingLoadResultReader&lt;<span>PagingLoadResult</span>&lt;Mo=
+delData&gt;&gt;=EF=BC=89=EF=BC=8C=E7=94=A8=E4=BA=8E=E8=A7=A3=E6=9E=90=E6=95=
+=B0=E6=8D=AE=E3=80=82</p>
+<p style=3D"margin-left: 30.0px;">=E2=9D=B8 =E5=88=9B=E5=BB=BA loader =EF=
+=BC=88BasePagingLoader&lt;PagingLoadResult&lt;ModelData&gt;&gt;(proxy, <spa=
+n style=3D"line-height: 1.42857;">reader</span>)=EF=BC=89=EF=BC=8C=E7=94=A8=
+=E6=88=B7=E5=8A=A0=E8=BD=BD=E6=95=B0=E6=8D=AE=E3=80=82</p>
+<p style=3D"margin-left: 30.0px;">=E2=9D=B9 =E5=88=9B=E5=BB=BA store =EF=BC=
+=88ListStore&lt;ModelData&gt;(loader)=EF=BC=89=EF=BC=8C=E7=94=A8=E4=BA=8E=
+=E5=AD=98=E5=82=A8=E6=95=B0=E6=8D=AE=E3=80=82</p>
+<p style=3D"margin-left: 30.0px;">=E2=9D=BA =E5=88=9B=E5=BB=BA cm (ColumnMo=
+del) ,=E5=AD=98=E5=82=A8=E8=A1=A8=E5=88=97=E3=80=82</p>
+<p style=3D"margin-left: 30.0px;">=E2=9D=BB&nbsp;=E5=88=9B=E5=BB=BA grid =
+=EF=BC=88Grid&lt;ModelData&gt;(store, cm)=EF=BC=89</p>
+<p style=3D"margin-left: 30.0px;">=E2=9D=BC =E5=88=9B=E5=BB=BA=E5=88=86=E9=
+=A1=B5 =EF=BC=88PagingToolBar&nbsp;=EF=BC=89=E5=B9=B6=E7=BB=91=E5=AE=9Aload=
+er</p>
+<p style=3D"margin-left: 30.0px;">=E2=9D=BD =E8=B0=83=E7=94=A8 loader=E7=9A=
+=84load=E6=96=B9=E6=B3=95=E5=8A=A0=E8=BD=BD=E6=95=B0=E6=8D=AE</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">GWT=E5=88=97=E8=A1=A8=E6=BA=90=E7=A0=81</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">/*=E8=AF=B7=E6=B1=82=E7=9A=84=E6=96=B9=E5=BC=8F=EF=BC=88POST=E3=80=81GET=
+=E3=80=81...=EF=BC=89=E5=92=8CURL*/
+RequestBuilder builder =3D new IMallRequestBuilder(RequestBuilder.POST, GWT=
+.getHostPageBaseURL() + "admin/modules/article/infArticle/findPage.json");
+/*=E8=AF=B7=E6=B1=82=E5=A4=B4*/
+builder.setHeader("Content-Type", "application/x-www-form-urlencoded; chars=
+et=3DUTF-8");
+/*=E2=9D=B6 =E5=88=9B=E5=BB=BA proxy*/
+HttpProxy&lt;String&gt; proxy =3D new HttpProxy&lt;String&gt;(builder);
+
+/*=E5=88=9B=E5=BB=BAModelType*/
+ModelType type =3D new ModelType();
+type.setRoot("result"); //=E5=AF=B9=E5=BA=94Controller =E8=BF=94=E5=9B=9E=
+=E7=9A=84=E7=BB=93=E6=9E=9C=EF=BC=88result=EF=BC=89,=E6=B3=A8=E6=84=8F=E4=
+=B8=8Ejson=E6=95=B0=E6=8D=AE=E6=A0=B9=E5=90=8D=E7=A7=B0=E8=A6=81=E4=BF=9D=
+=E6=8C=81=E4=B8=80=E8=87=B4, =E5=90=A6=E5=88=99=E6=97=A0=E6=B3=95=E6=AD=A3=
+=E7=A1=AE=E7=9A=84=E8=A7=A3=E6=9E=90=E6=95=B0=E6=8D=AE
+type.setTotalName("total"); //=E5=AF=B9=E5=BA=94Controller =E8=BF=94=E5=9B=
+=9E=E7=9A=84=E6=80=BB=E6=9D=A1=E6=95=B0=EF=BC=88total=EF=BC=89
+
+/*Controller=E8=BF=94=E5=9B=9E=E7=9A=84=E6=95=B0=E6=8D=AE=E4=B8=AD=EF=BC=8C=
+=E5=93=AA=E4=BA=9B=E5=AD=97=E6=AE=B5=E6=98=AF=E4=BD=A0=E6=89=80=E9=9C=80=E8=
+=A6=81=E7=9A=84=EF=BC=8C=E4=BD=A0=E9=83=BD=E9=9C=80=E8=A6=81=E6=B7=BB=E5=8A=
+=A0=E5=88=B0Field=E9=87=8C=EF=BC=88addField=EF=BC=89=EF=BC=8C=E6=B2=A1=E6=
+=9C=89=E5=AE=9A=E4=B9=89=E7=9A=84=E5=AD=97=E6=AE=B5=E7=BB=93=E6=9E=9C=E4=B8=
+=BA=E7=A9=BA*/
+DataField infArticleId =3D new DataField(IInfArticle.INF_ARTICLE_ID);
+infArticleId.setType(Integer.class);
+type.addField(infArticleId);
+DataField browseTimes =3D new DataField(IInfArticle.BROWSE_TIMES);
+browseTimes.setType(Integer.class);
+type.addField(browseTimes);
+type.addField(IInfArticle.SYS_CREATE_TIME_STRING);
+type.addField(IInfArticle.MOD_USER_INF);
+type.addField(IInfArticle.CATEGORY_PATH);
+
+/*=E2=9D=B7 =E5=88=9B=E5=BB=BA  reader*/
+JsonPagingLoadResultReader&lt;PagingLoadResult&lt;ModelData&gt;&gt; reader =
+=3D new JsonPagingLoadResultReader&lt;PagingLoadResult&lt;ModelData&gt;&gt;=
+(type);
+/*=E2=9D=B8 =E5=88=9B=E5=BB=BA loader*/
+loader =3D new BasePagingLoader&lt;PagingLoadResult&lt;ModelData&gt;&gt;(pr=
+oxy, reader);
+loader.addLoadListener(new LoadListener() {
+    public void loaderBeforeLoad(LoadEvent le) {
+        setMsgContent(new BaseModel());
+        LoadConfig config =3D le.getConfig();
+        config.set("searchContent","xxxx");
+        /*
+        .......
+        */
+    }
+});
+/*=E2=9D=B9 =E5=88=9B=E5=BB=BA store*/
+ListStore&lt;ModelData&gt; store =3D new ListStore&lt;ModelData&gt;(loader)=
+;
+
+/*Grid=E6=98=BE=E7=A4=BA=E7=9A=84=E5=88=97*/
+List&lt;ColumnConfig&gt; configs =3D new ArrayList&lt;ColumnConfig&gt;();
+CheckBoxSelectionModel&lt;ModelData&gt; sm =3D new CheckBoxSelectionModel&l=
+t;ModelData&gt;();
+configs.add(sm.getColumn());
+ColumnConfigExt categoryConfig =3D new ColumnConfigExt(IInfArticle.CATEGORY=
+_PATH, "=E6=89=80=E5=B1=9E=E6=A0=8F=E7=9B=AE", 200);
+configs.add(categoryConfig);
+ColumnConfigExt broTimesConfig =3D new ColumnConfigExt(IInfArticle.BROWSE_T=
+IMES, "=E8=AE=BF=E9=97=AE=E9=87=8F", 50);
+broTimesConfig.setAlignment(Style.HorizontalAlignment.CENTER);
+configs.add(broTimesConfig);
+ColumnConfigExt lastUserConfig =3D new ColumnConfigExt(IInfArticle.MOD_USER=
+_INF, "=E6=9C=80=E5=90=8E=E4=BF=AE=E6=94=B9=E8=80=85", 116);
+configs.add(lastUserConfig);
+ColumnConfigExt createTimeConfig =3D new ColumnConfigExt(IInfArticle.SYS_CR=
+EATE_TIME_STRING, "=E5=BB=BA=E7=AB=8B=E6=97=B6=E9=97=B4", 100);
+configs.add(createTimeConfig);
+
+/*=E2=9D=BA =E5=88=9B=E5=BB=BA cm*/
+ColumnModel cm =3D new ColumnModel(configs);
+/*=E2=9D=BB =E5=88=9B=E5=BB=BA grid*/
+infArticleGrid =3D new Grid&lt;ModelData&gt;(store, cm);
+infArticleGrid.addPlugin(getRowEditor());
+infArticleGrid.disableTextSelection(false);
+infArticleGrid.setStripeRows(true);
+infArticleGrid.getSelectionModel().setSelectionMode(Style.SelectionMode.MUL=
+TI);
+infArticleGrid.setSelectionModel(sm);
+infArticleGrid.addPlugin(sm);
+panel.getMainPanel().add(infArticleGrid);
+
+/*=E2=9D=BC =E5=88=9B=E5=BB=BA=E5=88=86=E9=A1=B5*/
+int pageSize =3D 22; //=E6=AF=8F=E9=A1=B5=E6=95=B0=E9=87=8F
+PagingToolBar pagingToolBar =3D new PagingToolBarExt(pageSize);
+pagingToolBar.bind(loader);//=E7=BB=91=E5=AE=9Aloader
+panel.getMainPanel().setBottomComponent(pagingToolBar);</pre>=20
+</div>=20
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">Controller=E6=8E=A5=E6=94=B6=E5=88=97=E8=A1=A8=E8=
+=AF=B7=E6=B1=82</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">@Controller
+@RequestMapping("/admin/modules/article/infArticle")
+public class InfArticleController extends BaseRestSpringController{
+    protected static final String RESULT_ACTION =3D "redirect:/result";
+    private static final String RESULT =3D "result";
+    private static final String TOTAL =3D "total";
+
+    /*Controller=E4=BC=A0=E9=80=92=E8=BF=87=E6=9D=A5=E7=9A=84=E5=8F=82=E6=
+=95=B0=E5=8F=AF=E7=9B=B4=E6=8E=A5=E5=9C=A8=E6=96=B9=E6=B3=95=E4=B8=AD=E6=8E=
+=A5=E6=94=B6=EF=BC=8C=E4=B9=9F=E5=8F=AF=E6=94=BE=E5=85=A5=E5=AF=B9=E8=B1=A1=
+=E4=B8=AD=E6=8E=A5=E6=94=B6*/
+    @RequestMapping(value =3D "/findPage" , method=3DRequestMethod.POST)
+    public String findByInfoRecommendParam(ModelMap model, Integer limit,ja=
+va.lang.Integer offset, String searchContent,InfArticleSearchParams param) =
+throws BusinessException, SolrServerException, InvocationTargetException, I=
+llegalAccessException {
+        Integer pageNumber =3D offset / limit + 1;
+        Page&lt;InfArticleVo&gt; page =3D ServiceManager.infArticleService.=
+findPage(pageNumber, limit, searchContent,param);
+        if(page !=3D null){
+            List&lt;InfArticleVo&gt; list =3D page.getResult();
+            model.put(RESULT, list);
+            model.put(TOTAL, page.getTotalCount());
+        }
+        return RESULT_ACTION;
+    }
+}
+
+&nbsp;</pre>=20
+</div>=20
+</div>
+<h2 style=3D"margin-left: 30.0px;" id=3D"id-3.5GWT=E6=95=B0=E6=8D=AE=E4=BA=
+=A4=E4=BA=92-"><strong><br></strong></h2>
+<h2 id=3D"id-3.5GWT=E6=95=B0=E6=8D=AE=E4=BA=A4=E4=BA=92-2=E3=80=81=E7=AA=97=
+=E4=BD=93=E8=8E=B7=E5=8F=96=E5=88=97=E8=A1=A8=E7=9A=84=E6=95=B0=E6=8D=AE=E8=
+=BF=9B=E8=A1=8C=E7=BC=96=E8=BE=91"><strong>2=E3=80=81=E7=AA=97=E4=BD=93=E8=
+=8E=B7=E5=8F=96=E5=88=97=E8=A1=A8=E7=9A=84=E6=95=B0=E6=8D=AE=E8=BF=9B=E8=A1=
+=8C=E7=BC=96=E8=BE=91</strong></h2>
+<p style=3D"margin-left: 30.0px;">=E2=9D=B6 Presenter =E6=8F=90=E4=BE=9B=E6=
+=8E=A5=E5=8F=A3</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">=E5=A6=82=EF=BC=9AInfArticleListPresenter=E6=8F=90=
+=E4=BE=9B=E8=8E=B7=E5=8F=96=E6=95=B0=E6=8D=AE=E7=9A=84=E6=8E=A5=E5=8F=A3</b=
+>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">public interface Display extends WidgetDisplay {
+    /*=E8=8E=B7=E5=8F=96=E9=80=89=E6=8B=A9=E7=9A=84=E4=B8=80=E8=A1=8C*/
+    ModelData getSelectedItem();
+    /*=E8=8E=B7=E5=8F=96=E9=80=89=E6=8B=A9=E7=9A=84=E5=A4=9A=E8=A1=8C*/
+    List&lt;ModelData&gt; getSelectedItemList();
+
+}</pre>=20
+</div>=20
+</div>
+<p style=3D"margin-left: 30.0px;">=E2=9D=B7 View=E5=AE=9E=E7=8E=B0=E6=8E=A5=
+=E5=8F=A3</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">=E5=A6=82=EF=BC=9AInfArticleListView =E5=AE=9E=E7=
+=8E=B0=E6=8E=A5=E5=8F=A3=E6=96=B9=E6=B3=95</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Con=
+fluence">/*=E8=8E=B7=E5=8F=96Grid=E9=80=89=E4=B8=AD=E7=9A=84=E4=B8=80=E8=A1=
+=8C*/
+public ModelData getSelectedItem() {
+    return infArticleGrid.getSelectionModel().getSelectedItem();
+}
+/*=E8=8E=B7=E5=8F=96Grid=E9=80=89=E4=B8=AD=E7=9A=84=E5=A4=9A=E8=A1=8C*/
+public List&lt;ModelData&gt; getSelectedItemList() {
+    return infArticleGrid.getSelectionModel().getSelectedItems();
+}</pre>=20
+</div>=20
+</div>
+<p style=3D"margin-left: 30.0px;">=E2=9D=B8 =E8=B0=83=E7=94=A8=E6=8E=A5=E5=
+=8F=A3=E8=8E=B7=E5=8F=96=E5=88=97=E8=A1=A8=E6=95=B0=E6=8D=AE</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">=E8=B0=83=E7=94=A8=E6=8E=A5=E5=8F=A3=E8=8E=B7=E5=
+=8F=96=E6=95=B0=E6=8D=AE</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">/*=E8=8E=B7=E5=8F=96Presenter=E5=B9=B6=E8=B0=83=E7=94=A8=E6=8E=A5=E5=8F=
+=A3*/
+Provider&lt;WidgetPresenter&lt;? extends WidgetDisplay&gt;&gt; provider =3D=
+ Registry.getProvider(RegistryGlobal.PRD_INF_ARTICLE_LIST);
+InfArticleListPresenter presenter =3D (InfArticleListPresenter)provider.get=
+();
+InfArticleListPresenter.Display widgetDisplay =3D presenter.getDisplay();
+ModelData selectModel =3D  widgetDisplay.getSelectedItem();</pre>=20
+</div>=20
+</div>
+<p style=3D"margin-left: 30.0px;">=E2=9D=B9 =E7=BC=96=E8=BE=91=E5=88=97=E8=
+=A1=A8=E7=9A=84=E6=95=B0=E6=8D=AE=EF=BC=8C=E5=BE=88=E5=A4=9A=E6=83=85=E5=86=
+=B5=E4=B8=8BselectModel=E6=98=AF=E4=B8=8D=E5=A4=9F=E7=9A=84=EF=BC=8C=E9=9C=
+=80=E8=A6=81=E5=86=8D=E5=8E=BB=E8=AF=B7=E6=B1=82Controller=E8=8E=B7=E5=8F=
+=96=E8=AF=A6=E7=BB=86=E7=9A=84=E6=95=B0=E6=8D=AE</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">=E8=AF=B7=E6=B1=82Controller=E8=8E=B7=E5=8F=96=E8=
+=AF=A6=E7=BB=86=E6=95=B0=E6=8D=AE</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence; collapse: true" data-theme=3D"Con=
+fluence">/* GWT=E4=BB=A3=E7=A0=81 */
+private void  getDetailMsg(ModelData selectModel){
+    /*modelData=E7=94=A8=E4=BA=8E=E4=BC=A0=E9=80=92=E5=8F=82=E6=95=B0*/
+    ModelData modelData =3D new BaseModelData();
+    modelData.set(IInfArticle.INF_ARTICLE_ID,selectModel.get(IInfArticle.IN=
+F_ARTICLE_ID));
+
+    String url =3D "admin/modules/article/infArticle/findByInfArticleId.jso=
+n";
+    RestUtil.sendRestRequest(url, modelData, RestUtil.REST_GET, new BaseCal=
+lBack() {
+        @Override
+        protected void onSuccess(Request request, Response response) {
+            String resultText =3D response.getText();
+            JSONObject json =3D (JSONObject) JSONParser.parseStrict(resultT=
+ext);
+            /*=E5=B0=86Json=E8=A7=A3=E6=9E=90=E6=88=90ModelData*/
+            ModelData modelData =3D ModelUtil.json2ModelData(json, new Mode=
+lUtil.ModelCreator() {
+                public ModelData create() {
+                    return new BaseModelData();
+                }
+            });
+            ModelData data =3D modelData.get("result");
+        }
+    });
+}
+&nbsp;
+/* Controller=E4=BB=A3=E7=A0=81 */
+@RequestMapping(value =3D "/findByInfArticleId", method=3DRequestMethod.GET=
+)
+public String findByInfArticleId(ModelMap model, Integer infArticleId) thro=
+ws BusinessException {
+    InfArticleVo infArticleVo =3D new InfArticleVo();
+    //.............
+    model.put(RESULT, infArticleVo);
+    return RESULT_ACTION;
+}</pre>=20
+</div>=20
+</div>
+<h2 style=3D"margin-left: 30.0px;" id=3D"id-3.5GWT=E6=95=B0=E6=8D=AE=E4=BA=
+=A4=E4=BA=92-.1"><strong><br></strong></h2>
+<h2 id=3D"id-3.5GWT=E6=95=B0=E6=8D=AE=E4=BA=A4=E4=BA=92-3=E3=80=81=E7=AA=97=
+=E4=BD=93=E6=95=B0=E6=8D=AE=E4=BF=9D=E5=AD=98"><strong>3=E3=80=81=E7=AA=97=
+=E4=BD=93=E6=95=B0=E6=8D=AE=E4=BF=9D=E5=AD=98</strong></h2>
+<p>=E2=9D=B6&nbsp;=E7=AE=80=E5=8D=95=E5=AF=B9=E8=B1=A1=E7=BB=93=E6=9E=84=E4=
+=BF=9D=E5=AD=98</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">Presenter =E7=9A=84Display=E6=8F=90=E4=BE=9B=E6=8E=
+=A5=E5=8F=A3</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">public interface Display extends WidgetDisplay {
+    //=E8=8E=B7=E5=8F=96=E7=AA=97=E4=BD=93=E7=BB=84=E4=BB=B6=E7=9A=84=E6=95=
+=B0=E6=8D=AE=EF=BC=8C=E5=AD=98=E5=85=A5ModelData=EF=BC=8C=E9=80=82=E7=94=A8=
+=E4=BA=8E=E4=BC=A0=E9=80=92=E7=AE=80=E5=8D=95=E6=95=B0=E6=8D=AE=E7=BB=93=E6=
+=9E=84
+    ModelData getResultModel();
+    //=E4=BF=9D=E5=AD=98=E4=BA=8B=E4=BB=B6
+    void addSaveListener(Listener&lt;BaseEvent&gt; listener);
+}</pre>=20
+</div>=20
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">Presenter =E7=9A=84onBind=E4=B8=AD=E5=AE=9E=E7=8E=
+=B0=E4=BF=9D=E5=AD=98=E4=BA=8B=E4=BB=B6</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">&nbsp;display.addSaveListener(new Listener&lt;BaseEvent&gt;() {
+    @Override
+    public void handleEvent(BaseEvent baseEvent) {
+        ModelData modelData =3D display.getResultModel();
+
+        String url =3D "admin/modules/article/infArticle/saveInfArticle.jso=
+n";
+        RestUtil.sendRestRequest(url, modelData, RestUtil.REST_GET, new Bas=
+eCallBack() {
+            @Override
+            protected void onSuccess(Request request, Response response) {
+                String jsonString =3D response.getText();
+                JSONObject json =3D (JSONObject) JSONParser.parseStrict(jso=
+nString);
+                String result =3D JsonUtils.getSafeString(json.get("success=
+"));
+                if (result.equals("true")) {
+
+                }
+            }
+        });
+    }
+});</pre>=20
+</div>=20
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">Controller =E6=8E=A5=E6=94=B6=E4=BF=9D=E5=AD=98=E7=
+=9A=84=E5=AF=B9=E8=B1=A1</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">@Controller
+@RequestMapping("/admin/modules/article/infArticle")
+public class InfArticleController extends BaseRestSpringController{
+
+    protected static final String RESULT_ACTION =3D "redirect:/result";
+    private static final String RESULT =3D "result";
+    private static final String ID_BINDER_PATH =3D "/{id}";
+
+    @RequestMapping(value =3D "/saveInfArticle", method=3DRequestMethod.GET=
+)
+    public String saveInfArticle(ModelMap model, InfArticle infArticle) thr=
+ows BusinessException {
+        //.............
+        setSuccess(model);
+        return RESULT_ACTION;
+    }
+}</pre>=20
+</div>=20
+</div>
+<p><span style=3D"line-height: 1.42857;"><br></span></p>
+<p><span style=3D"line-height: 1.42857;">=E2=9D=B7&nbsp;=E5=A4=8D=E6=9D=82=
+=E5=AF=B9=E8=B1=A1=E7=BB=93=E6=9E=84=E4=BF=9D=E5=AD=98=EF=BC=88=E4=BD=BF=E7=
+=94=A8JSON=EF=BC=89</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">Presenter =E7=9A=84Display=E6=8F=90=E4=BE=9B=E6=8E=
+=A5=E5=8F=A3</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">public interface Display extends WidgetDisplay {
+    //=E8=8E=B7=E5=8F=96=E7=AA=97=E4=BD=93=E7=BB=84=E4=BB=B6=E7=9A=84=E6=95=
+=B0=E6=8D=AE=EF=BC=8C=E5=AD=98=E5=85=A5JSONObject=EF=BC=8C=E9=80=82=E7=94=
+=A8=E4=BA=8E=E4=BC=A0=E9=80=92=E5=A4=8D=E6=9D=82=E6=95=B0=E6=8D=AE=E7=BB=93=
+=E6=9E=84=E7=9A=84
+    JSONObject getJSONObject();
+    //=E4=BF=9D=E5=AD=98=E4=BA=8B=E4=BB=B6
+    void addSaveListener(Listener&lt;BaseEvent&gt; listener);
+}</pre>=20
+</div>=20
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">View =E5=AE=9E=E7=8E=B0=E8=8E=B7=E5=8F=96=E7=AA=97=
+=E4=BD=93=E6=95=B0=E6=8D=AE=E7=9A=84=E6=96=B9=E6=B3=95</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">public JSONObject getJSONObject() {
+    JSONObject pictSubjectVoObject =3D new JSONObject();
+    pictSubjectVoObject.put(IInfArticle.INF_ARTICLE_ID, new JSONNumber(infA=
+rticleId));
+    pictSubjectVoObject.put(IInfArticle.TITLE, new JSONString(txtTitle.getR=
+awValue()));
+    //.......
+    return pictSubjectVoObject;
+}</pre>=20
+</div>=20
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">Presenter =E7=9A=84onBind=E4=B8=AD=E5=AE=9E=E7=8E=
+=B0=E4=BF=9D=E5=AD=98=E4=BA=8B=E4=BB=B6</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">display.addSaveListener(new Listener&lt;BaseEvent&gt;() {
+    @Override
+    public void handleEvent(BaseEvent baseEvent) {
+        String url =3D "admin/modules/article/infArticle/saveInfArticle.jso=
+n" ;
+        JSONObject saveObject =3D display.getJSONObject();
+        /*=E4=BD=BF=E7=94=A8Json=E8=AF=B7=E6=B1=82=E6=96=B9=E5=BC=8F  sendJ=
+sonRestRequest*/
+        RestUtil.sendJsonRestRequest(url, saveObject,RestUtil.REST_POST, ne=
+w BaseCallBack() {
+            public void onSuccess(Request request, Response response) {
+                String jsonString =3D response.getText();
+                JSONObject json =3D (JSONObject) JSONParser.parseStrict(jso=
+nString);
+                String result =3D JsonUtils.getSafeString(json.get("success=
+"));
+                if (result.equals("true")) {
+                   =20
+                }
+            }
+        });
+
+    }
+});</pre>=20
+</div>=20
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom" style=3D"borde=
+r-bottom-width: 1px;">=20
+<b class=3D" code-title">Controller =E4=BD=BF=E7=94=A8 @RequestBody=E6=B3=
+=A8=E8=A7=A3=E6=8E=A5=E6=94=B6Json=E5=AF=B9=E8=B1=A1</b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">@Controller
+@RequestMapping("/admin/modules/article/infArticle")
+public class InfArticleController extends BaseRestSpringController{
+=20
+    protected static final String RESULT_ACTION =3D "redirect:/result";
+    private static final String RESULT =3D "result";
+    private static final String ID_BINDER_PATH =3D "/{id}";
+=20
+    @RequestMapping(value =3D "/saveInfArticle", method=3DRequestMethod.POS=
+T)
+    public String saveInfArticle(ModelMap model,@RequestBody InfArticle inf=
+Article) throws BusinessException {
+        //.............
+        setSuccess(model);
+        return RESULT_ACTION;
+    }
+}
+&nbsp;
+&nbsp;</pre>=20
+</div>=20
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<pre>&nbsp;</pre>
+    </div>
+</body>
+</html>
+------=_Part_98_761799421.1483523986233--

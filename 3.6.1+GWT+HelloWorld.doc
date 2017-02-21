@@ -1,0 +1,631 @@
+Message-ID: <1784814690.103.1483523996402.JavaMail.WINSERVER-2012$@winserver-2012>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_102_2097093694.1483523996402"
+
+------=_Part_102_2097093694.1483523996402
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>3.6.1 GWT HelloWorld</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>3.6.1 GWT HelloWorld</h1>
+    <div class=3D"Section1">
+        <p>=E5=9C=A8=E5=AD=A6=E4=B9=A0GWT=E5=89=8D=EF=BC=8C=E5=85=88=E4=BE=
+=9D=E8=91=AB=E8=8A=A6=E7=94=BB=E4=B8=AA=E7=93=A2=E3=80=82=E6=9D=A5=E4=B8=AA=
+HelloWorld=E3=80=82</p>
+<p>=E6=88=91=E4=BB=AC=E8=A6=81=E8=BE=BE=E5=88=B0=E7=9A=84=E7=9B=AE=E6=A0=87=
+=EF=BC=9A</p>
+<ol>
+<li>=E8=83=BD=E5=A4=9F=E6=B7=BB=E5=8A=A0=E8=8F=9C=E5=8D=95=E8=8A=82=E7=82=
+=B9</li>
+<li>=E8=83=BD=E5=A4=9F=E5=AE=9E=E7=8E=B0=E6=A8=A1=E5=9D=97=E7=9A=84=E8=A3=
+=85=E8=BD=BD</li>
+<li>=E8=83=BD=E5=A4=9F=E5=9C=A8=E6=A8=A1=E5=9D=97View=E9=87=8C=E6=98=BE=E7=
+=A4=BA=E4=B8=80=E4=B8=AA=E6=9C=80=E7=AE=80=E5=8D=95=E7=9A=84HelloWorld&nbsp=
+;</li>
+</ol>
+<p>&nbsp;</p>
+<p>=E8=A6=81=E5=9C=A8=E5=90=8E=E5=8F=B0=E5=88=9B=E5=BB=BA=E4=B8=80=E4=B8=AA=
+=E7=AE=80=E5=8D=95=E7=9A=84=E8=8F=9C=E5=8D=95=E8=8A=82=E7=82=B9=E9=A1=B5=E9=
+=9D=A2=EF=BC=8C=E9=99=A4=E4=BA=86=E5=88=9B=E5=BB=BA=E5=AF=B9=E5=BA=94=E7=9A=
+=84View=E5=92=8CPresenter=EF=BC=8C=E8=BF=98=E9=9C=80=E8=A6=81=E6=B7=BB=E5=
+=8A=A0=E5=AF=B9=E5=BA=94=E7=9A=84=E8=8F=9C=E5=8D=95=E8=8A=82=E7=82=B9=EF=BC=
+=8C=E5=92=8C=E7=BB=99=E4=BA=88=E5=AF=B9=E5=BA=94=E7=9A=84=E6=9D=83=E9=99=90=
+=EF=BC=8C=E8=BF=99=E6=A0=B7=E6=89=8D=E8=83=BD=E6=AD=A3=E5=B8=B8=E6=98=BE=E7=
+=A4=BA=E5=9C=A8=E6=88=91=E4=BB=AC=E6=83=B3=E8=A6=81=E7=9A=84=E4=BD=8D=E7=BD=
+=AE=E3=80=82</p>
+<p>=E2=91=A0=E7=AC=AC=E4=B8=80=E6=AD=A5=E6=B7=BB=E5=8A=A0=E5=90=8E=E5=8F=B0=
+=E8=8F=9C=E5=8D=95=E8=8A=82=E7=82=B9</p>
+<ol>
+<li>=E6=9F=A5=E6=89=BE=E5=90=8C=E7=BA=A7=E7=9A=84=E8=8F=9C=E5=8D=95=E8=8A=
+=82=E7=82=B9<br><p>=E9=A6=96=E5=85=88=E6=89=93=E5=BC=80default-data.xml=E6=
+=96=87=E4=BB=B6=EF=BC=8C=E6=89=BE=E5=88=B0=E6=88=91=E4=BB=AC=E8=8A=82=E7=82=
+=B9=E8=A6=81=E6=94=BE=E7=BD=AE=E4=BD=8D=E7=BD=AE=E7=9A=84=E5=90=8C=E4=B8=80=
+=E7=BA=A7=E3=80=82=E5=A6=82=EF=BC=9A=E7=8E=B0=E5=9C=A8=E8=A6=81=E5=9C=A8=E2=
+=80=9C=E5=9F=BA=E7=A1=80=E7=BB=84=E4=BB=B6=E6=BC=94=E7=A4=BA=E2=80=9D=E8=BF=
+=99=E4=B8=AA=E8=8F=9C=E5=8D=95=E4=B8=8B=E6=94=BE=E4=B8=80=E4=B8=AA=E8=B7=9F=
+=E2=80=9C=E5=9F=BA=E7=A1=80=E7=BB=84=E4=BB=B6=E6=BC=94=E7=A4=BA=E7=AE=A1=E7=
+=90=86=E2=80=9D=E5=90=8C=E7=BA=A7=E7=9A=84=E8=8F=9C=E5=8D=95=E3=80=82=E6=88=
+=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E5=85=88=E5=9C=A8=E8=AF=A5=E6=96=87=E4=BB=B6=
+=E4=B8=AD=E6=90=9C=E7=B4=A2=E2=80=9C=E5=9F=BA=E7=A1=80=E7=BB=84=E4=BB=B6=E6=
+=BC=94=E7=A4=BA=E7=AE=A1=E7=90=86=E2=80=9D=EF=BC=8C=E6=89=BE=E5=88=B0=E5=85=
+=B6=E5=AF=B9=E5=BA=94=E7=9A=84=E8=8F=9C=E5=8D=95=E5=86=85=E5=AE=B9=E3=80=82=
+</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">&lt;SYS_TREE_NODE SYS_TREE_NODE_ID=3D"3100" TREE_NODE_TYPE_CODE=3D"2" IC=
+ON_FILE_ID=3D"[null]" SYS_OBJECT_ID=3D"3000" UPPER_TREE_NODE_ID=3D"3000" SY=
+S_TREE_NODE_NM=3D"=E5=9F=BA=E7=A1=80=E7=BB=84=E4=BB=B6=E6=BC=94=E7=A4=BA=E7=
+=AE=A1=E7=90=86" SYS_TREE_NODE_POSITION=3D"0"/&gt;</pre>=20
+</div>=20
+</div>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">&lt;SYS_MENU_RES SYS_MENU_RES_ID=3D"3000" RES_NM=3D"GWT Demo=E6=BC=94=E7=
+=A4=BA" RES_URL=3D""/&gt;</pre>=20
+</div>=20
+</div><p>=E7=AC=AC=E4=B8=80=E6=AE=B5=E4=BB=A3=E7=A0=81=E8=A1=A8=E7=A4=BA=E7=
+=9A=84=E6=98=AF=E6=8F=92=E5=85=A5SYS_TREE_NODE=EF=BC=88=E6=A0=91=E8=8A=82=
+=E7=82=B9=EF=BC=89=E8=A1=A8=E4=B8=80=E6=9D=A1=E6=95=B0=E6=8D=AE=EF=BC=8C=E7=
+=AC=AC=E4=BA=8C=E6=AE=B5=E4=BB=A3=E7=A0=81=E8=A1=A8=E7=A4=BA=E6=8F=92=E5=85=
+=A5SYS_MENU_RES=EF=BC=88=E8=8F=9C=E5=8D=95=EF=BC=89=E8=A1=A8=E4=B8=80=E6=9D=
+=A1=E6=95=B0=E6=8D=AE=E3=80=82</p><p>=E7=AC=AC=E4=B8=80=E6=AE=B5=E4=BB=A3=
+=E7=A0=81=E4=B8=AD=EF=BC=9A</p>
+<ul>
+<li>=E6=A0=87=E7=AD=BE=E5=A4=B4SYS_TREE_NODE=E8=A1=A8=E7=A4=BA=E8=A1=A8=E5=
+=90=8D</li>
+<li>SYS_TREE_NODE_ID=E8=A1=A8=E7=A4=BA=E4=B8=BB=E9=94=AE=E6=A0=91ID</li>
+<li>TREE_NODE_TYPE_CODE=E8=A1=A8=E7=A4=BA=E8=8A=82=E7=82=B9=E7=B1=BB=E5=9E=
+=8B=EF=BC=88=E8=AF=A6=E7=BB=86=E5=8F=AF=E7=9C=8BTreeNodeTypeCodeEnum=E7=B1=
+=BB=EF=BC=89</li>
+<li>ICON_FILE_ID=E8=A1=A8=E7=A4=BA=E5=9B=BE=E6=A0=87=EF=BC=8C=E8=BF=99=E9=
+=87=8C=E4=B8=8D=E9=9C=80=E8=A6=81=E6=89=80=E4=BB=A5=E7=BB=99=E4=BA=88null</=
+li>
+<li>SYS_OBJECT_ID=E8=A1=A8=E7=A4=BA=E5=AF=B9=E5=BA=94=E7=9A=84=E8=8F=9C=E5=
+=8D=95ID=EF=BC=88SYS_MENU_RES_ID=EF=BC=89</li>
+<li>UPPER_TREE_NODE_ID=E8=A1=A8=E7=A4=BA=E4=B8=8A=E4=B8=80=E7=BA=A7=E7=9A=
+=84TREE_NODE_ID</li>
+<li>SYS_TREE_NODE_NM=E8=A1=A8=E7=A4=BA=E6=98=BE=E7=A4=BA=E7=9A=84=E8=8A=82=
+=E7=82=B9=E5=90=8D=E7=A7=B0</li>
+<li>SYS_TREE_NODE_POSITION=E8=A1=A8=E7=A4=BA=E5=90=8C=E4=B8=80=E7=BA=A7=E7=
+=9A=84=E8=8A=82=E7=82=B9=E6=8E=92=E5=BA=8F=EF=BC=8C=E6=95=B0=E5=AD=97=E8=B6=
+=8A=E5=B0=8F=E6=8E=92=E7=9A=84=E8=B6=8A=E9=9D=A0=E5=89=8D</li>
+</ul><p>=E7=AC=AC=E4=BA=8C=E6=AE=B5=E4=BB=A3=E7=A0=81=E4=B8=AD=EF=BC=9A</p>
+<ul>
+<li>=E6=A0=87=E7=AD=BE=E5=A4=B4SYS_MENU_RES=E8=A1=A8=E7=A4=BA=E8=A1=A8=E5=
+=90=8D</li>
+<li>SYS_MENU_RES_ID=E8=A1=A8=E7=A4=BA=E4=B8=BB=E9=94=AE=E8=8F=9C=E5=8D=95ID=
+</li>
+<li>RES_NM=E8=A1=A8=E7=A4=BA=E8=8F=9C=E5=8D=95=E5=90=8D</li>
+<li>RES_URL=E8=A1=A8=E7=A4=BA=E5=AF=B9=E5=BA=94=E7=9A=84=E9=93=BE=E6=8E=A5=
+=E5=9C=B0=E5=9D=80</li>
+</ul></li>
+<li><p>=E5=A4=8D=E5=88=B6=E4=BB=A3=E7=A0=81=E4=BF=AE=E6=94=B9=E5=86=85=E5=
+=AE=B9<br>=E4=B8=8A=E9=9D=A2=E5=B7=B2=E7=BB=8F=E6=89=BE=E5=88=B0=E4=BA=86=
+=E5=90=8C=E7=BA=A7=E7=9A=84=E5=86=85=E5=AE=B9=E4=BB=A3=E7=A0=81=EF=BC=8C=E6=
+=88=91=E4=BB=AC=E5=8F=AA=E9=9C=80=E5=A4=8D=E5=88=B6=E7=84=B6=E5=90=8E=E8=BF=
+=9B=E8=A1=8C=E4=BF=AE=E6=94=B9=E3=80=82</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">&lt;SYS_MENU_RES SYS_MENU_RES_ID=3D"3300" RES_NM=3D"HelloWorld=E7=AE=A1=
+=E7=90=86" RES_URL=3D""/&gt;
+&lt;SYS_TREE_NODE SYS_TREE_NODE_ID=3D"3300" TREE_NODE_TYPE_CODE=3D"2" ICON_=
+FILE_ID=3D"[null]" SYS_OBJECT_ID=3D"3300" UPPER_TREE_NODE_ID=3D"3000" SYS_T=
+REE_NODE_NM=3D"HelloWorld=E7=AE=A1=E7=90=86" SYS_TREE_NODE_POSITION=3D"5"/&=
+gt;</pre>=20
+</div>=20
+</div><p>=E6=88=91=E4=BB=AC=E9=9C=80=E8=A6=81=E4=BF=AE=E6=94=B9=E7=9A=84=E5=
+=B0=B1=E6=98=AFID=E3=80=81=E5=90=8D=E5=AD=97=E5=92=8C=E6=8E=92=E5=BA=8F=EF=
+=BC=8C=E5=9B=A0=E4=B8=BA=E6=98=AF=E5=90=8C=E7=BA=A7=E6=89=80=E4=BB=A5=E4=B8=
+=8A=E7=BA=A7ID=E5=B0=B1=E4=B8=8D=E7=94=A8=E4=BF=AE=E6=94=B9=E3=80=82=E6=B3=
+=A8=E6=84=8F=EF=BC=9AID=E5=BF=85=E9=A1=BB=E5=9C=A8=E6=95=B0=E6=8D=AE=E5=BA=
+=93=E4=B8=AD=E4=B8=8D=E5=AD=98=E5=9C=A8=EF=BC=8C=E6=89=80=E4=BB=A5=E6=88=91=
+=E4=BB=AC=E5=A1=AB=E5=86=99ID=E7=9A=84=E6=97=B6=E5=80=99=E5=85=88=E5=9C=A8=
+=E6=95=B0=E6=8D=AE=E5=BA=93=E7=9A=84=E8=A1=A8=E4=B8=AD=E6=9F=A5=E7=9C=8B=E8=
+=AF=A5ID=E6=98=AF=E5=90=A6=E5=B7=B2=E5=AD=98=E5=9C=A8=E3=80=82<br>=E6=B7=BB=
+=E5=8A=A0=E5=AE=8C=E4=BA=86=E8=8F=9C=E5=8D=95=E7=AE=A1=E7=90=86=E5=A4=B4=E9=
+=83=A8=EF=BC=8C=E6=88=91=E4=BB=AC=E4=BE=BF=E5=8F=AF=E6=B7=BB=E5=8A=A0=E5=AD=
+=90=E8=8F=9C=E5=8D=95=E8=8A=82=E7=82=B9=E5=86=85=E5=AE=B9=E3=80=82=E5=90=8C=
+=E6=A0=B7=E6=98=AF=E6=8F=92=E5=85=A5=E8=BF=99=E4=B8=A4=E4=B8=AA=E8=A1=A8=EF=
+=BC=8C=E4=B8=8D=E4=B8=80=E6=A0=B7=E7=9A=84=E6=98=AF=E5=9B=A0=E4=B8=BA=E6=98=
+=AF=E6=88=91=E4=BB=AC=E6=83=B3=E8=A6=81=E9=93=BE=E6=8E=A5=E7=9A=84=E8=8F=9C=
+=E5=8D=95=E8=8A=82=E7=82=B9=EF=BC=8C=E6=89=80=E4=BB=A5=E5=A4=9A=E5=8A=A0=E4=
+=BA=86=E9=93=BE=E6=8E=A5=E5=AD=97=E6=AE=B5RES_URL=E3=80=82=E8=80=8C=E8=BF=
+=99=E5=AD=90=E8=8A=82=E7=82=B9=E7=9A=84=E4=B8=8A=E7=BA=A7=E5=B0=B1=E5=AF=B9=
+=E5=BA=94=E4=B8=8A=E9=9D=A2=E5=A2=9E=E5=8A=A0=E7=9A=84"HelloWorld=E7=AE=A1=
+=E7=90=86"=E8=8A=82=E7=82=B9=E3=80=82</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">&lt;SYS_MENU_RES SYS_MENU_RES_ID=3D"3301" RES_NM=3D"HelloWorld" RES_URL=
+=3D"modules/demo/helloWorldView"/&gt;
+&lt;SYS_TREE_NODE SYS_TREE_NODE_ID=3D"3301" TREE_NODE_TYPE_CODE=3D"2" ICON_=
+FILE_ID=3D"[null]" SYS_OBJECT_ID=3D"3301" UPPER_TREE_NODE_ID=3D"3300" SYS_T=
+REE_NODE_NM=3D"HelloWorld" SYS_TREE_NODE_POSITION=3D"0"/&gt;</pre>=20
+</div>=20
+</div></li>
+</ol>
+<p>=E2=91=A1=E7=AC=AC=E4=BA=8C=E6=AD=A5=E7=BB=99=E6=96=B0=E5=A2=9E=E7=9A=84=
+=E5=90=8E=E5=8F=B0=E8=8F=9C=E5=8D=95=E8=8A=82=E7=82=B9=E6=B7=BB=E5=8A=A0=E8=
+=A7=92=E8=89=B2=E6=9D=83=E9=99=90=EF=BC=8C=E5=85=89=E6=9C=89=E8=8A=82=E7=82=
+=B9=E6=8C=82=E8=BD=BD=E9=A1=BA=E5=BA=8F=E5=92=8C=E8=8A=82=E7=82=B9=E5=90=8D=
+=E7=A7=B0=E8=BF=98=E4=B8=8D=E5=A4=9F=EF=BC=8C=E6=8C=89=E7=85=A7=E6=88=91=E4=
+=BB=AC=E7=9A=84RBAC=E6=9D=83=E9=99=90=E6=A8=A1=E5=9E=8B=EF=BC=8C=E5=BB=BA=
+=E7=AB=8B=E4=BA=86=E8=8F=9C=E5=8D=95=E7=BB=93=E6=9E=84=EF=BC=8C=E8=BF=98=E9=
+=9C=80=E8=A6=81=E6=8E=88=E6=9D=83=E5=90=8E=E6=89=8D=E5=8F=AF=E4=BB=A5=E4=BD=
+=BF=E7=94=A8=E3=80=82</p>
+<p>=E6=89=93=E5=BC=80imall-data.xml=E6=96=87=E4=BB=B6=EF=BC=8C=E6=B7=BB=E5=
+=8A=A0=E4=BB=A5=E4=B8=8B=E4=BB=A3=E7=A0=81=EF=BC=9A</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">&lt;!--HelloView--&gt;
+&lt;SYS_ROLE_MENU_RES_PERMIS SYS_ROLE_MENU_RES_PERMIS_ID=3D"$#{HIBERNATE_SE=
+QUENCE}#$" SYS_MENU_RES_ID=3D"3300" SYS_ROLE_ID=3D"09"/&gt;
+&lt;SYS_ROLE_MENU_RES_PERMIS SYS_ROLE_MENU_RES_PERMIS_ID=3D"$#{HIBERNATE_SE=
+QUENCE}#$" SYS_MENU_RES_ID=3D"3300" SYS_ROLE_ID=3D"1"/&gt;
+&lt;SYS_ROLE_MENU_RES_PERMIS SYS_ROLE_MENU_RES_PERMIS_ID=3D"$#{HIBERNATE_SE=
+QUENCE}#$" SYS_MENU_RES_ID=3D"3301" SYS_ROLE_ID=3D"09"/&gt;
+&lt;SYS_ROLE_MENU_RES_PERMIS SYS_ROLE_MENU_RES_PERMIS_ID=3D"$#{HIBERNATE_SE=
+QUENCE}#$" SYS_MENU_RES_ID=3D"3301" SYS_ROLE_ID=3D"1"/&gt;</pre>=20
+</div>=20
+</div>
+<p>=E8=BF=99=E6=AE=B5=E4=BB=A3=E7=A0=81=E8=A1=A8=E7=A4=BA=E7=9A=84=E6=98=AF=
+=E6=8F=92=E5=85=A5SYS_ROLE_MENU_RES_PERMIS=EF=BC=88=E8=A7=92=E8=89=B2=E8=8F=
+=9C=E5=8D=95=E6=9D=83=E9=99=90=E8=A1=A8=EF=BC=89=EF=BC=9A</p>
+<ul>
+<li>SYS_ROLE_MENU_RES_PERMIS_ID=E8=A1=A8=E7=A4=BA=E4=B8=BB=E9=94=AEID=EF=BC=
+=8C=E8=BF=99=E9=87=8C=E6=B2=A1=E7=BB=99=E4=B8=80=E4=B8=AA=E5=85=B7=E4=BD=93=
+=E5=80=BC=EF=BC=8C=E6=98=AF=E4=B8=BA=E4=BA=86=E5=AE=9E=E7=8E=B0ID=E8=87=AA=
+=E5=A2=9E=E3=80=82</li>
+<li>SYS_MENU_RES=E8=A1=A8=E7=A4=BA=E4=B8=8A=E9=9D=A2=E6=88=91=E4=BB=AC=E6=
+=B7=BB=E5=8A=A0=E7=9A=84=E8=8F=9C=E5=8D=95ID=EF=BC=8C=E8=BF=99=E9=87=8C=E8=
+=A6=81=E6=B3=A8=E6=84=8F=E4=B8=8D=E6=98=AFSYS_TREE_NODE_ID</li>
+<li>SYS_ROLE_ID=E8=A1=A8=E7=A4=BA=E5=AF=B9=E5=BA=94=E7=9A=84=E8=A7=92=E8=89=
+=B2=EF=BC=8C=E6=83=B3=E7=9F=A5=E9=81=93SYS_ROLE_ID=E5=AF=B9=E5=BA=94=E5=93=
+=AA=E4=B8=AA=E8=A7=92=E8=89=B2=E5=8F=AF=E4=BB=A5=E5=8E=BB=E6=9F=A5=E7=9C=8B=
+SYS_ROLE=E8=A1=A8=EF=BC=889=E8=A1=A8=E7=A4=BA=E6=80=BB=E9=83=A8=EF=BC=8C1=
+=E8=A1=A8=E7=A4=BA=E7=B3=BB=E7=BB=9F=E7=AE=A1=E7=90=86=E5=91=98=EF=BC=89</l=
+i>
+</ul>
+<p>=E2=91=A2=E7=AC=AC=E4=B8=89=E6=AD=A5=E5=B0=86=E5=AF=B9=E5=BA=94=E7=9A=84=
+RES_URL=E6=B7=BB=E5=8A=A0=E5=88=B0RegistryGlobal=E7=B1=BB</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">// HelloView
+public static final String HELLO_WORLD_VIEW =3D "modules/demo/helloWorldVie=
+w";</pre>=20
+</div>=20
+</div>
+<p>=E9=9C=80=E8=A6=81=E6=B3=A8=E6=84=8FRES_URL=E4=B8=8D=E8=83=BD=E4=B8=8E=
+=E4=B9=8B=E5=89=8D=E7=9A=84=E9=87=8D=E5=A4=8D=E3=80=82</p>
+<p>=E2=91=A3=E7=AC=AC=E5=9B=9B=E6=AD=A5=E5=87=86=E5=A4=87View=E5=92=8CPrese=
+nter</p>
+<ol>
+<li>=E6=96=B0=E5=BB=BA=E4=B8=80=E4=B8=AApresenter HelloWorldPresenter<span =
+style=3D"color: rgb(0,0,0);">&nbsp;</span>=EF=BC=8C =E5=9C=A8presenter=E5=
+=AE=9A=E4=B9=89=E4=B8=80=E4=B8=AA=E5=90=8D=E7=A7=B0=E4=B8=BADisplay=E7=9A=
+=84=E5=86=85=E9=83=A8=E6=8E=A5=E5=8F=A3=EF=BC=8C=E5=86=85=E9=83=A8=E6=8E=A5=
+=E5=8F=A3=E9=9C=80=E8=A6=81=E7=BB=A7=E6=89=BFWidgetDisplay=E3=80=82=E6=8E=
+=A5=E5=8F=A3=E5=AE=9A=E4=B9=89=E5=A5=BD=E5=90=8E=EF=BC=8C=E9=9C=80=E8=A6=81=
+presenter=E7=BB=A7=E6=89=BF WidgetPresenter&lt;HelloWorldPresenter<span sty=
+le=3D"color: rgb(0,0,0);">&nbsp;</span>.Display&gt;=E3=80=82</li>
+<li>=E6=96=B0=E5=BB=BA=E4=B8=80=E4=B8=AAHelloWorldView=EF=BC=8C =E5=AE=9E=
+=E7=8E=B0HelloWorldPresenter<span style=3D"color: rgb(0,0,0);">&nbsp;</span=
+>.Display=E7=9A=84=E6=8E=A5=E5=8F=A3=EF=BC=8C=E8=AF=A5view=E7=BB=A7=E6=89=
+=BF LayoutContainer=EF=BC=88=E5=AE=B9=E5=99=A8=E7=B1=BB=EF=BC=89=E3=80=82</=
+li>
+<li><p>=E5=9C=A8IMallModuleConfig=E9=87=8C=E8=BF=9B=E8=A1=8C=E6=B3=A8=E5=86=
+=8C=EF=BC=8C=E5=A2=9E=E5=8A=A0=E4=B8=80=E8=A1=8CMVP=E7=9A=84Guice=E7=BB=91=
+=E5=AE=9A=EF=BC=9A</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">// HelloView
+this.bindPresenter(HelloWorldPresenter.class, HelloWorldPresenter.Display.c=
+lass, HelloWorldView.class);</pre>=20
+</div>=20
+</div></li>
+<li><p>=E6=AD=A4=E6=97=B6MVP=E7=9A=84=E7=BB=93=E6=9E=84=E5=B0=B1=E5=AE=8C=
+=E6=88=90=E4=BA=86=EF=BC=8C=E4=BD=86=E6=98=AF=E8=A6=81=E8=83=BD=E5=A4=9F=E5=
+=B1=95=E7=A4=BA=EF=BC=8C=E8=BF=98=E5=BE=97=E5=92=8C=E8=B5=84=E6=BA=90=E7=BB=
+=91=E5=AE=9A=E8=B5=B7=E6=9D=A5=EF=BC=8C=E5=9C=A8Registry=E5=B0=86=E8=B5=84=
+=E6=BA=90=E4=B8=B2=E7=BB=91=E5=AE=9A=E5=88=B0=E4=BD=A0=E6=96=B0=E5=A2=9E=E7=
+=9A=84presenter=EF=BC=8C=E8=BF=99=E9=87=8CRegistryGlobal=E4=BE=BF=E6=98=AF=
+=E5=AF=B9=E5=BA=94=E7=9D=80=E6=88=91=E4=BB=AC=E8=8F=9C=E5=8D=95=E7=9A=84RES=
+_URL=E3=80=82</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">// HelloView
+@Inject
+public void setHelloWorldViewProvider(Provider&lt;HelloWorldPresenter&gt; p=
+rovider) {
+    presenterRegistry.put(RegistryGlobal.HELLO_WORLD_VIEW,provider);
+}
+</pre>=20
+</div>=20
+</div></li>
+</ol>
+<p>HelloWorldPresenter<span style=3D"color: rgb(0,0,0);">=E5=92=8CHelloView=
+=E5=86=85=E5=AE=B9=E9=9D=9E=E5=B8=B8=E7=AE=80=E5=8D=95=EF=BC=8CHelloWorldPr=
+esenter<span style=3D"color: rgb(0,0,0);">&nbsp;</span>=E5=B0=B1=E6=98=AF=
+=E6=B2=A1=E6=9C=89=E4=BB=BB=E4=BD=95=E5=86=85=E5=AE=B9=E7=9A=84presenter=EF=
+=BC=8C=E5=85=B6=E6=B2=A1=E6=9C=89=E5=AE=9E=E7=8E=B0=E4=BB=BB=E4=BD=95=E6=93=
+=8D=E4=BD=9C=E5=8A=9F=E8=83=BD=EF=BC=9BHelloView=E5=8F=AA=E6=98=AF=E6=B7=BB=
+=E5=8A=A0=E4=BA=86=E6=A0=87=E9=A2=98=E5=92=8C=E4=B8=80=E4=B8=AALabel=E3=80=
+=82</span></p>
+<p><span style=3D"color: rgb(0,0,0);">&nbsp;</span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">package com.iloosen.imall.client.module.demo.presenter;
+
+import com.google.inject.Inject;
+import com.iloosen.imall.client.components.MenuPresenter;
+import com.iloosen.imall.client.module.main.event.MainMenuEvent;
+import net.customware.gwt.presenter.client.EventBus;
+import net.customware.gwt.presenter.client.widget.WidgetDisplay;
+import net.customware.gwt.presenter.client.widget.WidgetPresenter;
+
+/**
+ * Created by zxh on 2016/10/17.
+ */
+public class HelloWorldPresenter extends WidgetPresenter&lt;HelloWorldPrese=
+nter.Display&gt; implements MenuPresenter  {
+    @Inject
+    public HelloWorldPresenter(HelloWorldPresenter.Display display, EventBu=
+s eventBus) {
+        super(display, eventBus);
+        bind();
+    }
+
+    public interface Display extends WidgetDisplay {
+    }
+
+    @Override
+    protected void onBind() {
+
+    }
+
+    @Override
+    protected void onUnbind() {
+
+    }
+
+    @Override
+    protected void onRevealDisplay() {
+
+    }
+
+    @Override
+    public void afterMenuSelected(MainMenuEvent event) {
+
+    }
+}
+</pre>=20
+</div>=20
+</div>
+<p><span style=3D"color: rgb(0,0,0);"><br></span></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">=20
+<div class=3D"codeHeader panelHeader pdl hide-border-bottom">=20
+<b class=3D"code-title"></b>=20
+<span class=3D"collapse-source expand-control" style=3D"display:none;"><spa=
+n class=3D"expand-control-icon icon">&nbsp;</span><span class=3D"expand-con=
+trol-text">=E5=B1=95=E5=BC=80=E5=8E=9F=E7=A0=81</span></span>=20
+<span class=3D"collapse-spinner-wrapper"></span>=20
+</div>=20
+<div class=3D"codeContent panelContent pdl hide-toolbar">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Eclipse; collapse: true" data-theme=3D"Eclips=
+e">package com.iloosen.imall.client.module.demo.view;
+import com.extjs.gxt.ui.client.widget.LayoutContainer;
+import com.extjs.gxt.ui.client.widget.form.LabelField;
+import com.iloosen.imall.client.module.demo.presenter.HelloWorldPresenter;
+/**
+&nbsp;* Created by zxh on 2016/10/17.
+&nbsp;*/
+public class HelloWorldView extends LayoutContainer implements HelloWorldPr=
+esenter.Display{
+&nbsp;&nbsp;&nbsp; public HelloWorldView() {
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; this.add(new LabelField("Hello W=
+orld"));
+&nbsp;&nbsp;&nbsp; }
+}
+
+</pre>=20
+</div>=20
+</div>
+<p>=E6=89=80=E6=9C=89=E5=8C=85=E5=90=AB=E5=AD=90=E5=AF=B9=E8=B1=A1=E7=9A=84=
+=E5=AE=B9=E5=99=A8=E7=B1=BB=EF=BC=8C=E9=83=BD=E6=98=AFLayoutContainer=E5=8F=
+=8A=E5=85=B6=E5=AD=90=E7=B1=BB=EF=BC=8C=E5=AD=90=E7=B1=BB=E6=94=AF=E6=8C=81=
+add=E6=96=B9=E6=B3=95=E5=B0=86=E5=85=B6=E5=AE=83=E7=9A=84widget=E6=B7=BB=E5=
+=8A=A0=E5=88=B0=E5=BD=93=E5=89=8D=E7=9A=84=E5=B8=83=E5=B1=80=E3=80=82</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_102_2097093694.1483523996402--
